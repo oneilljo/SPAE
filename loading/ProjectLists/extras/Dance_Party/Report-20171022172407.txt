@@ -1,0 +1,261 @@
+SCATT Report October 22, 2017 5:24:07 PM
+
+File: project_74952028.sb2
+---------------------------------
+Scripts Total: 			14
+Sprites Total: 			12
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			11
+Costumes Total: 		42
+Control Blocks: 		16
+Data Blocks: 			0
+Event Blocks: 			14
+Looks Blocks: 			15
+More Blocks Blocks: 	0
+Motion Blocks: 			33
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Stage Counts
+---------------------------------
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Gobo
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button5
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button3
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button4
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button8
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button9
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button10
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button6
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button7
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Button2
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Star3
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

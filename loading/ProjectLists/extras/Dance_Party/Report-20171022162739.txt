@@ -1,0 +1,149 @@
+SCATT Report October 22, 2017 4:27:39 PM
+
+File: project_25141075.sb2
+---------------------------------
+Scripts Total: 			22
+Sprites Total: 			5
+Variables Total: 		0
+Lists Total: 			1
+	Global Lists:
+		t used 97 time(s)
+ScriptComments Total: 	0
+Sounds Total: 			15
+Costumes Total: 		23
+Control Blocks: 		22
+Data Blocks: 			5
+Event Blocks: 			24
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			13
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			16
+
+Stage Counts
+---------------------------------
+Scripts: 				6
+Variables: 				0
+Lists: 					1
+	Global Lists:
+		t used 29 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		5
+Data Blocks: 			5
+Event Blocks: 			5
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			4
+
+Sprite Counts
+---------------------------------
+Sprite: Dinosaur2
+Scripts: 				5
+Variables: 				0
+Lists: 					0
+	Global Lists:
+		t used 11 time(s)
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			4
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey3
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+	Global Lists:
+		t used 5 time(s)
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+	Global Lists:
+		t used 9 time(s)
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey2
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+	Global Lists:
+		t used 15 time(s)
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Dinosaur
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+	Global Lists:
+		t used 28 time(s)
+ScriptComments: 		0
+Sounds: 				14
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			12
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

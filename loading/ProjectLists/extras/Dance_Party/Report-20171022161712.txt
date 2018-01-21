@@ -1,0 +1,124 @@
+SCATT Report October 22, 2017 4:17:12 PM
+
+File: project_20514811.sb2
+---------------------------------
+Scripts Total: 			5
+Sprites Total: 			3
+Variables Total: 		2
+	Global Variables:
+		fsdj used 0 time(s)
+		c used 11 time(s)
+Lists Total: 			1
+	Global Lists:
+		,zx used 0 time(s)
+ScriptComments Total: 	0
+Sounds Total: 			4
+Costumes Total: 		18
+Control Blocks: 		8
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			4
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Stage Counts
+---------------------------------
+Scripts: 				3
+Variables: 				2
+	Global Variables:
+		fsdj used 0 time(s)
+		c used 5 time(s)
+Lists: 					1
+	Global Lists:
+		,zx used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Dinosaur
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		fsdj used 0 time(s)
+		c used 2 time(s)
+Lists: 					0
+	Global Lists:
+		,zx used 0 time(s)
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				8
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Bat2
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		fsdj used 0 time(s)
+		c used 2 time(s)
+Lists: 					0
+	Global Lists:
+		,zx used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite1
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		fsdj used 0 time(s)
+		c used 2 time(s)
+Lists: 					0
+	Global Lists:
+		,zx used 0 time(s)
+ScriptComments: 		0
+Sounds: 				2
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

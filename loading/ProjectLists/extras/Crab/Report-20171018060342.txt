@@ -1,0 +1,163 @@
+SCATT Report October 18, 2017 6:03:42 AM
+
+File: project_173999572.sb2
+---------------------------------
+Scripts Total: 			22
+Sprites Total: 			5
+Variables Total: 		1
+	Global Variables:
+		Highscore used 56 time(s)
+Lists Total: 			1
+	Global Lists:
+		Help used 2 time(s)
+ScriptComments Total: 	0
+Sounds Total: 			6
+Costumes Total: 		12
+Control Blocks: 		35
+Data Blocks: 			58
+Event Blocks: 			23
+Looks Blocks: 			92
+More Blocks Blocks: 	0
+Motion Blocks: 			66
+Operator Blocks: 		29
+Pen Blocks: 			0
+Sensing Blocks: 		5
+Sound Blocks: 			0
+
+Stage Counts
+---------------------------------
+Scripts: 				1
+Variables: 				1
+	Global Variables:
+		Highscore used 0 time(s)
+Lists: 					1
+	Global Lists:
+		Help used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				4
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Alien-Meteor-IV
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		Highscore used 15 time(s)
+Lists: 					0
+	Global Lists:
+		Help used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		9
+Data Blocks: 			15
+Event Blocks: 			3
+Looks Blocks: 			24
+More Blocks Blocks: 	0
+Motion Blocks: 			17
+Operator Blocks: 		7
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Alien-Meteor-III
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		Highscore used 13 time(s)
+Lists: 					0
+	Global Lists:
+		Help used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			13
+Event Blocks: 			2
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		6
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Alien-Meteor-I
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		Highscore used 13 time(s)
+Lists: 					0
+	Global Lists:
+		Help used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			13
+Event Blocks: 			2
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		6
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Alien-Meteor-II
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		Highscore used 13 time(s)
+Lists: 					0
+	Global Lists:
+		Help used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			13
+Event Blocks: 			2
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		6
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Spielcharakter
+Scripts: 				12
+Variables: 				0
+	Global Variables:
+		Highscore used 2 time(s)
+Lists: 					0
+	Global Lists:
+		Help used 2 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				4
+Control Blocks: 		3
+Data Blocks: 			4
+Event Blocks: 			13
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			4
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		5
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

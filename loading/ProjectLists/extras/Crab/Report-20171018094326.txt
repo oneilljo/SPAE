@@ -1,0 +1,1161 @@
+SCATT Report October 18, 2017 9:43:26 AM
+
+File: project_149232846.sb2
+---------------------------------
+Scripts Total: 			209
+Sprites Total: 			62
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	1
+Sounds Total: 			63
+Costumes Total: 		130
+Control Blocks: 		210
+Data Blocks: 			0
+Event Blocks: 			209
+Looks Blocks: 			1251
+More Blocks Blocks: 	0
+Motion Blocks: 			1040
+Operator Blocks: 		212
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Stage Counts
+---------------------------------
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				20
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Wizard8
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying18
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying17
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish18
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish17
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish16
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying16
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying15
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite12
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite11
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite10
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite9
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite8
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying14
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying13
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying12
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Wizard7
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Wizard6
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying11
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying10
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish15
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish14
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish13
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying9
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying8
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite7
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite6
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite5
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite4
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite3
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite2
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying7
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying6
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Wizard5
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Wizard4
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Wizard3
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying5
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Butterfly6
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Butterfly5
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Butterfly4
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Butterfly2
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish12
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish11
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish10
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish9
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish8
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish7
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish6
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish5
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish4
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying4
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying3
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish2
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite1
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Fish3
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			20
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Wizard2
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab2
+Scripts: 				5
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		5
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			25
+Operator Blocks: 		5
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab3
+Scripts: 				5
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		5
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			25
+Operator Blocks: 		5
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Butterfly3
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1 Flying2
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			21
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab
+Scripts: 				6
+Variables: 				0
+Lists: 					0
+ScriptComments: 		1
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			28
+More Blocks Blocks: 	0
+Motion Blocks: 			30
+Operator Blocks: 		6
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

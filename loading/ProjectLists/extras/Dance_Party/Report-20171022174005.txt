@@ -1,0 +1,99 @@
+SCATT Report October 22, 2017 5:40:05 PM
+
+File: project_94684925.sb2
+---------------------------------
+Scripts Total: 			6
+Sprites Total: 			3
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			2
+Costumes Total: 		15
+Control Blocks: 		11
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			1
+
+Stage Counts
+---------------------------------
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Dinosaur
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Breakdancer1
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

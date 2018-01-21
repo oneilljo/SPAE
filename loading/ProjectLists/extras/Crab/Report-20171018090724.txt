@@ -1,0 +1,156 @@
+SCATT Report October 18, 2017 9:07:24 AM
+
+File: project_126917203.sb2
+---------------------------------
+Scripts Total: 			14
+Sprites Total: 			6
+Variables Total: 		2
+Lists Total: 			0
+ScriptComments Total: 	3
+Sounds Total: 			6
+Costumes Total: 		32
+Control Blocks: 		27
+Data Blocks: 			5
+Event Blocks: 			13
+Looks Blocks: 			31
+More Blocks Blocks: 	0
+Motion Blocks: 			19
+Operator Blocks: 		6
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: awxsome cat2
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			6
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: awxsome cat
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			6
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		3
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		5
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: awxsome cat4
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: awxsome cat3
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			6
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Rain
+Scripts: 				2
+Variables: 				2
+	Sprite Variables:
+		falling speed used 3 time(s)
+		raindrop size used 2 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		6
+Data Blocks: 			5
+Event Blocks: 			1
+Looks Blocks: 			6
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		5
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

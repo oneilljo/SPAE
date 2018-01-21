@@ -1,0 +1,127 @@
+SCATT Report October 18, 2017 3:30:18 AM
+
+File: project_123893685.sb2
+---------------------------------
+Scripts Total: 			5
+Sprites Total: 			4
+Variables Total: 		8
+Lists Total: 			0
+ScriptComments Total: 	3
+Sounds Total: 			17
+Costumes Total: 		13
+Control Blocks: 		18
+Data Blocks: 			40
+Event Blocks: 			3
+Looks Blocks: 			2
+More Blocks Blocks: 	2
+Motion Blocks: 			6
+Operator Blocks: 		25
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			3
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Crab
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		3
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			6
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: Speaker2
+Scripts: 				1
+Variables: 				4
+	Sprite Variables:
+		scale degree used 8 time(s)
+		octave used 2 time(s)
+		note number used 10 time(s)
+		loop number used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				7
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			20
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	1
+Motion Blocks: 			0
+Operator Blocks: 		12
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: Speaker
+Scripts: 				1
+Variables: 				4
+	Sprite Variables:
+		scale degree used 8 time(s)
+		octave used 2 time(s)
+		note number used 10 time(s)
+		loop number used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				7
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			20
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	1
+Motion Blocks: 			0
+Operator Blocks: 		12
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: Sprite1
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

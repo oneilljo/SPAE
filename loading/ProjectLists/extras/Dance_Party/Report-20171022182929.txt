@@ -1,0 +1,171 @@
+SCATT Report October 22, 2017 6:29:29 PM
+
+File: project_140984412.sb2
+---------------------------------
+Scripts Total: 			26
+Sprites Total: 			7
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			15
+Costumes Total: 		25
+Control Blocks: 		45
+Data Blocks: 			0
+Event Blocks: 			26
+Looks Blocks: 			63
+More Blocks Blocks: 	0
+Motion Blocks: 			36
+Operator Blocks: 		8
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Stage Counts
+---------------------------------
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Dinosaur
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: Bat1
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			9
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Dragon
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			9
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				4
+Control Blocks: 		7
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			10
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Cat1
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				4
+Control Blocks: 		10
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			16
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Microphone
+Scripts: 				6
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				10
+Costumes: 				1
+Control Blocks: 		9
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			10
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

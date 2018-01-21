@@ -1,0 +1,351 @@
+SCATT Report October 22, 2017 4:56:19 PM
+
+File: project_43717876.sb2
+---------------------------------
+Scripts Total: 			35
+Sprites Total: 			17
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			18
+Costumes Total: 		55
+Control Blocks: 		55
+Data Blocks: 			0
+Event Blocks: 			35
+Looks Blocks: 			58
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Stage Counts
+---------------------------------
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Ballerina5
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina2
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina9
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina13
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina3
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina6
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina7
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina11
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina16
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina10
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina17
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina4
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina8
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina12
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Ballerina15
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Squirrel
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		5
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

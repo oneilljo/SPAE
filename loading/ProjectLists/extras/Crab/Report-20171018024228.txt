@@ -1,0 +1,369 @@
+SCATT Report October 18, 2017 2:42:28 AM
+
+File: project_116084860.sb2
+---------------------------------
+Scripts Total: 			18
+Sprites Total: 			16
+Variables Total: 		1
+	Global Variables:
+		handsUp used 20 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			17
+Costumes Total: 		29
+Control Blocks: 		37
+Data Blocks: 			20
+Event Blocks: 			18
+Looks Blocks: 			34
+More Blocks Blocks: 	0
+Motion Blocks: 			38
+Operator Blocks: 		40
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				1
+	Global Variables:
+		handsUp used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Donny
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		handsUp used 4 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		5
+Data Blocks: 			4
+Event Blocks: 			2
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny2
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny3
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny4
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny5
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny6
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Explode
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: B-block
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: L-block
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		handsUp used 2 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			2
+Event Blocks: 			2
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: A-block
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: K-block
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: E-block
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny7
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny8
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny9
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Donny10
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		handsUp used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			1
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,129 @@
+SCATT Report October 18, 2017 2:26:43 AM
+
+File: project_110753101.sb2
+---------------------------------
+Scripts Total: 			11
+Sprites Total: 			4
+Variables Total: 		1
+	Global Variables:
+		Hungry used 3 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			11
+Costumes Total: 		11
+Control Blocks: 		7
+Data Blocks: 			3
+Event Blocks: 			14
+Looks Blocks: 			20
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			5
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				1
+	Global Variables:
+		Hungry used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				4
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Trampoline
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		Hungry used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Dog Puppy
+Scripts: 				6
+Variables: 				0
+	Global Variables:
+		Hungry used 3 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				7
+Costumes: 				4
+Control Blocks: 		7
+Data Blocks: 			3
+Event Blocks: 			6
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			5
+
+Sprite: Convertible1
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		Hungry used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Apple
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		Hungry used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

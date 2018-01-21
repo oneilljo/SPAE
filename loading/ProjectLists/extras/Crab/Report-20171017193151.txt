@@ -1,0 +1,117 @@
+SCATT Report October 17, 2017 7:31:51 PM
+
+File: project_22601108.sb2
+---------------------------------
+Scripts Total: 			14
+Sprites Total: 			4
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	3
+Sounds Total: 			5
+Costumes Total: 		13
+Control Blocks: 		13
+Data Blocks: 			0
+Event Blocks: 			14
+Looks Blocks: 			10
+More Blocks Blocks: 	0
+Motion Blocks: 			22
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Stage Counts
+---------------------------------
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: crab net
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Diver1
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Scratch Cat
+Scripts: 				11
+Variables: 				0
+Lists: 					0
+ScriptComments: 		3
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		9
+Data Blocks: 			0
+Event Blocks: 			11
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			12
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Sprite: crab net2
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

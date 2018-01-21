@@ -1,0 +1,153 @@
+SCATT Report October 22, 2017 6:29:18 PM
+
+File: project_140797400.sb2
+---------------------------------
+Scripts Total: 			30
+Sprites Total: 			6
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			14
+Costumes Total: 		20
+Control Blocks: 		19
+Data Blocks: 			0
+Event Blocks: 			30
+Looks Blocks: 			24
+More Blocks Blocks: 	0
+Motion Blocks: 			15
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			9
+
+Stage Counts
+---------------------------------
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				5
+Costumes: 				6
+Control Blocks: 		10
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			8
+
+Sprite Counts
+---------------------------------
+Sprite: Penguin2
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Penguin4
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Penguin3
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Duck
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Penguin5
+Scripts: 				2
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Unicorn
+Scripts: 				19
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				5
+Costumes: 				9
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			19
+Looks Blocks: 			14
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

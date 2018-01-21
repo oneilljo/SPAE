@@ -1,0 +1,81 @@
+SCATT Report October 22, 2017 3:57:10 PM
+
+File: project_13355988.sb2
+---------------------------------
+Scripts Total: 			14
+Sprites Total: 			2
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			6
+Costumes Total: 		18
+Control Blocks: 		7
+Data Blocks: 			0
+Event Blocks: 			14
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			18
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			5
+
+Stage Counts
+---------------------------------
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				9
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Casey
+Scripts: 				6
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				4
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			3
+
+Sprite: Dinosaur
+Scripts: 				6
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			10
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

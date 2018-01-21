@@ -1,0 +1,189 @@
+SCATT Report October 18, 2017 3:43:35 PM
+
+File: project_76506244.sb2
+---------------------------------
+Scripts Total: 			31
+Sprites Total: 			8
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	2
+Sounds Total: 			8
+Costumes Total: 		18
+Control Blocks: 		43
+Data Blocks: 			0
+Event Blocks: 			36
+Looks Blocks: 			26
+More Blocks Blocks: 	0
+Motion Blocks: 			38
+Operator Blocks: 		8
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Stage Counts
+---------------------------------
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Basketball
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				1
+Control Blocks: 		12
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			11
+Operator Blocks: 		5
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: P-block
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: A-block
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: R-block
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: T-block
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab
+Scripts: 				8
+Variables: 				0
+Lists: 					0
+ScriptComments: 		2
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		8
+Data Blocks: 			0
+Event Blocks: 			9
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			10
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Sprite: Y-block
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Penguin3
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,81 @@
+SCATT Report October 18, 2017 12:29:47 AM
+
+File: project_87970583.sb2
+---------------------------------
+Scripts Total: 			18
+Sprites Total: 			2
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			3
+Costumes Total: 		11
+Control Blocks: 		16
+Data Blocks: 			0
+Event Blocks: 			18
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Crab
+Scripts: 				10
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		9
+Data Blocks: 			0
+Event Blocks: 			10
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Sprite: Shark
+Scripts: 				8
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		7
+Data Blocks: 			0
+Event Blocks: 			8
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			5
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

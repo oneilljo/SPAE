@@ -1,0 +1,321 @@
+SCATT Report October 22, 2017 5:28:01 PM
+
+File: project_77796258.sb2
+---------------------------------
+Scripts Total: 			30
+Sprites Total: 			11
+Variables Total: 		5
+	Global Variables:
+		ball used 25 time(s)
+		ball1 used 5 time(s)
+		ball2 used 4 time(s)
+		ball3 used 4 time(s)
+		ball4 used 4 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			6
+Costumes Total: 		33
+Control Blocks: 		57
+Data Blocks: 			25
+Event Blocks: 			25
+Looks Blocks: 			35
+More Blocks Blocks: 	0
+Motion Blocks: 			33
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		5
+Sound Blocks: 			1
+
+Stage Counts
+---------------------------------
+Scripts: 				5
+Variables: 				5
+	Global Variables:
+		ball used 0 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Casey2
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		ball used 0 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey4
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		ball used 0 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey5
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		ball used 0 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey6
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		ball used 0 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey3
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		ball used 0 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite5
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		ball used 4 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 4 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		6
+Data Blocks: 			4
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Sprite4
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		ball used 5 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 4 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		6
+Data Blocks: 			5
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Sprite3
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		ball used 6 time(s)
+		ball1 used 1 time(s)
+		ball2 used 4 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		6
+Data Blocks: 			6
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Sprite2
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		ball used 5 time(s)
+		ball1 used 4 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		6
+Data Blocks: 			5
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Sprite1
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		ball used 4 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		6
+Data Blocks: 			4
+Event Blocks: 			1
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Dinosaur3
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		ball used 1 time(s)
+		ball1 used 0 time(s)
+		ball2 used 0 time(s)
+		ball3 used 0 time(s)
+		ball4 used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		3
+Data Blocks: 			1
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

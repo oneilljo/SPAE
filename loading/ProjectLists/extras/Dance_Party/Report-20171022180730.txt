@@ -1,0 +1,174 @@
+SCATT Report October 22, 2017 6:07:30 PM
+
+File: project_119034799.sb2
+---------------------------------
+Scripts Total: 			10
+Sprites Total: 			6
+Variables Total: 		5
+	Global Variables:
+		space used 7 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			11
+Costumes Total: 		22
+Control Blocks: 		27
+Data Blocks: 			24
+Event Blocks: 			9
+Looks Blocks: 			12
+More Blocks Blocks: 	1
+Motion Blocks: 			5
+Operator Blocks: 		13
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			2
+
+Stage Counts
+---------------------------------
+Scripts: 				3
+Variables: 				1
+	Global Variables:
+		space used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Casey
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		space used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Speaker
+Scripts: 				1
+Variables: 				4
+	Global Variables:
+		space used 0 time(s)
+	Sprite Variables:
+		scale degree used 8 time(s)
+		octave used 2 time(s)
+		note number used 10 time(s)
+		loop number used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				7
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			20
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	1
+Motion Blocks: 			0
+Operator Blocks: 		12
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: Cat1 Flying
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		space used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Balloon1
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		space used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Dinosaur
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		space used 7 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			4
+Event Blocks: 			2
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Breakdancer1
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		space used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

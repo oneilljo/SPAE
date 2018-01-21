@@ -1,0 +1,97 @@
+SCATT Report October 22, 2017 5:17:52 PM
+
+File: project_69343516.sb2
+---------------------------------
+Scripts Total: 			12
+Sprites Total: 			2
+Variables Total: 		7
+	Global Variables:
+		SpaceCounter used 6 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			2
+Costumes Total: 		12
+Control Blocks: 		9
+Data Blocks: 			21
+Event Blocks: 			17
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			3
+
+Stage Counts
+---------------------------------
+Scripts: 				6
+Variables: 				1
+	Global Variables:
+		SpaceCounter used 6 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				2
+Costumes: 				6
+Control Blocks: 		6
+Data Blocks: 			6
+Event Blocks: 			10
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			3
+
+Sprite Counts
+---------------------------------
+Sprite: Dinosaur
+Scripts: 				3
+Variables: 				3
+	Global Variables:
+		SpaceCounter used 0 time(s)
+	Sprite Variables:
+		speed used 4 time(s)
+		slow used 2 time(s)
+		fast used 2 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				2
+Control Blocks: 		1
+Data Blocks: 			8
+Event Blocks: 			3
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Casey
+Scripts: 				4
+Variables: 				3
+	Global Variables:
+		SpaceCounter used 0 time(s)
+	Sprite Variables:
+		speed used 3 time(s)
+		slow used 3 time(s)
+		fast used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				4
+Control Blocks: 		2
+Data Blocks: 			7
+Event Blocks: 			4
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

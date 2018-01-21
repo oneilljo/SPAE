@@ -1,0 +1,117 @@
+SCATT Report October 18, 2017 2:48:29 AM
+
+File: project_118083418.sb2
+---------------------------------
+Scripts Total: 			18
+Sprites Total: 			4
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	4
+Sounds Total: 			9
+Costumes Total: 		19
+Control Blocks: 		30
+Data Blocks: 			0
+Event Blocks: 			18
+Looks Blocks: 			45
+More Blocks Blocks: 	0
+Motion Blocks: 			19
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			6
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: kanye_west_2012_mercy_official_portrait
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab
+Scripts: 				6
+Variables: 				0
+Lists: 					0
+ScriptComments: 		4
+Sounds: 				5
+Costumes: 				6
+Control Blocks: 		15
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			6
+
+Sprite: 1080 Hip-Hop
+Scripts: 				5
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				8
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			12
+More Blocks Blocks: 	0
+Motion Blocks: 			6
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: 141114162753-nr-sot-taylor-swift-00000423-story-top
+Scripts: 				5
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		5
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			9
+More Blocks Blocks: 	0
+Motion Blocks: 			3
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

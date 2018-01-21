@@ -1,0 +1,135 @@
+SCATT Report October 18, 2017 4:27:07 PM
+
+File: project_95378118.sb2
+---------------------------------
+Scripts Total: 			18
+Sprites Total: 			5
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			14
+Costumes Total: 		20
+Control Blocks: 		30
+Data Blocks: 			0
+Event Blocks: 			16
+Looks Blocks: 			25
+More Blocks Blocks: 	3
+Motion Blocks: 			43
+Operator Blocks: 		18
+Pen Blocks: 			0
+Sensing Blocks: 		10
+Sound Blocks: 			5
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				4
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Bubbles
+Scripts: 				4
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		12
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			11
+More Blocks Blocks: 	3
+Motion Blocks: 			13
+Operator Blocks: 		14
+Pen Blocks: 			0
+Sensing Blocks: 		7
+Sound Blocks: 			1
+
+Sprite: Fish2
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Fish1
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Crab
+Scripts: 				6
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				9
+Costumes: 				7
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			4
+
+Sprite: Fish3
+Scripts: 				3
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		4
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

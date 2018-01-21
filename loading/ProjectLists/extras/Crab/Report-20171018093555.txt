@@ -1,0 +1,207 @@
+SCATT Report October 18, 2017 9:35:55 AM
+
+File: project_144752851.sb2
+---------------------------------
+Scripts Total: 			119
+Sprites Total: 			9
+Variables Total: 		0
+Lists Total: 			0
+ScriptComments Total: 	3
+Sounds Total: 			55
+Costumes Total: 		69
+Control Blocks: 		206
+Data Blocks: 			0
+Event Blocks: 			67
+Looks Blocks: 			223
+More Blocks Blocks: 	169
+Motion Blocks: 			102
+Operator Blocks: 		149
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			5
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Crab
+Scripts: 				18
+Variables: 				0
+Lists: 					0
+ScriptComments: 		2
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		23
+Data Blocks: 			0
+Event Blocks: 			14
+Looks Blocks: 			24
+More Blocks Blocks: 	17
+Motion Blocks: 			8
+Operator Blocks: 		15
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			5
+
+Sprite: Crab2
+Scripts: 				16
+Variables: 				0
+Lists: 					0
+ScriptComments: 		1
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		21
+Data Blocks: 			0
+Event Blocks: 			10
+Looks Blocks: 			24
+More Blocks Blocks: 	22
+Motion Blocks: 			12
+Operator Blocks: 		17
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab3
+Scripts: 				13
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		20
+Data Blocks: 			0
+Event Blocks: 			7
+Looks Blocks: 			25
+More Blocks Blocks: 	19
+Motion Blocks: 			13
+Operator Blocks: 		17
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab4
+Scripts: 				13
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		31
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			32
+More Blocks Blocks: 	20
+Motion Blocks: 			12
+Operator Blocks: 		17
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab5
+Scripts: 				12
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		21
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			23
+More Blocks Blocks: 	19
+Motion Blocks: 			12
+Operator Blocks: 		17
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab7
+Scripts: 				12
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		20
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			23
+More Blocks Blocks: 	19
+Motion Blocks: 			12
+Operator Blocks: 		17
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab6
+Scripts: 				10
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		18
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			18
+More Blocks Blocks: 	14
+Motion Blocks: 			9
+Operator Blocks: 		15
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab8
+Scripts: 				13
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		31
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			31
+More Blocks Blocks: 	20
+Motion Blocks: 			12
+Operator Blocks: 		17
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab9
+Scripts: 				12
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				6
+Costumes: 				7
+Control Blocks: 		21
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			23
+More Blocks Blocks: 	19
+Motion Blocks: 			12
+Operator Blocks: 		17
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

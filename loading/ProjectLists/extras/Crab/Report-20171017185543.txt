@@ -1,0 +1,127 @@
+SCATT Report October 17, 2017 6:55:43 PM
+
+File: project_18980804.sb2
+---------------------------------
+Scripts Total: 			18
+Sprites Total: 			2
+Variables Total: 		13
+	Global Variables:
+		x used 13 time(s)
+		y used 42 time(s)
+		xact used 4 time(s)
+		yact used 4 time(s)
+		puntos used 4 time(s)
+		tiempo used 4 time(s)
+		vueltas used 4 time(s)
+		estado ant used 4 time(s)
+		estado act used 8 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			3
+Costumes Total: 		5
+Control Blocks: 		12
+Data Blocks: 			62
+Event Blocks: 			18
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			14
+Operator Blocks: 		12
+Pen Blocks: 			0
+Sensing Blocks: 		10
+Sound Blocks: 			0
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				9
+	Global Variables:
+		x used 0 time(s)
+		y used 0 time(s)
+		xact used 0 time(s)
+		yact used 0 time(s)
+		puntos used 0 time(s)
+		tiempo used 0 time(s)
+		vueltas used 0 time(s)
+		estado ant used 0 time(s)
+		estado act used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Button3
+Scripts: 				9
+Variables: 				2
+	Global Variables:
+		x used 7 time(s)
+		y used 21 time(s)
+		xact used 2 time(s)
+		yact used 2 time(s)
+		puntos used 2 time(s)
+		tiempo used 2 time(s)
+		vueltas used 2 time(s)
+		estado ant used 2 time(s)
+		estado act used 4 time(s)
+	Sprite Variables:
+		paso used 7 time(s)
+		sentido used 2 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		6
+Data Blocks: 			31
+Event Blocks: 			9
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		6
+Pen Blocks: 			0
+Sensing Blocks: 		5
+Sound Blocks: 			0
+
+Sprite: Button2
+Scripts: 				9
+Variables: 				2
+	Global Variables:
+		x used 6 time(s)
+		y used 21 time(s)
+		xact used 2 time(s)
+		yact used 2 time(s)
+		puntos used 2 time(s)
+		tiempo used 2 time(s)
+		vueltas used 2 time(s)
+		estado ant used 2 time(s)
+		estado act used 4 time(s)
+	Sprite Variables:
+		paso used 7 time(s)
+		sentido used 2 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		6
+Data Blocks: 			31
+Event Blocks: 			9
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		6
+Pen Blocks: 			0
+Sensing Blocks: 		5
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

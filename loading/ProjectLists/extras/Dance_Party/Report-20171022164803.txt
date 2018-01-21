@@ -1,0 +1,97 @@
+SCATT Report October 22, 2017 4:48:03 PM
+
+File: project_36680306.sb2
+---------------------------------
+Scripts Total: 			8
+Sprites Total: 			2
+Variables Total: 		1
+	Global Variables:
+		sound off stop used 6 time(s)
+Lists Total: 			1
+	Global Lists:
+		sound stop used 0 time(s)
+ScriptComments Total: 	0
+Sounds Total: 			4
+Costumes Total: 		11
+Control Blocks: 		25
+Data Blocks: 			6
+Event Blocks: 			8
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			19
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			2
+
+Stage Counts
+---------------------------------
+Scripts: 				3
+Variables: 				1
+	Global Variables:
+		sound off stop used 0 time(s)
+Lists: 					1
+	Global Lists:
+		sound stop used 0 time(s)
+ScriptComments: 		0
+Sounds: 				3
+Costumes: 				6
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Xmas Ekans
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		sound off stop used 5 time(s)
+Lists: 					0
+	Global Lists:
+		sound stop used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		14
+Data Blocks: 			5
+Event Blocks: 			4
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			12
+Operator Blocks: 		3
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: Buu
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		sound off stop used 1 time(s)
+Lists: 					0
+	Global Lists:
+		sound stop used 0 time(s)
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				3
+Control Blocks: 		8
+Data Blocks: 			1
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

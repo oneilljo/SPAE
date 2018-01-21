@@ -1,0 +1,134 @@
+SCATT Report October 22, 2017 5:56:51 PM
+
+File: project_105758160.sb2
+---------------------------------
+Scripts Total: 			18
+Sprites Total: 			3
+Variables Total: 		4
+	Global Variables:
+		dinosaur xcor used 2 time(s)
+		dinosaur ycor used 2 time(s)
+		times used 5 time(s)
+		If used 7 time(s)
+Lists Total: 			1
+	Global Lists:
+		sprites used 1 time(s)
+ScriptComments Total: 	0
+Sounds Total: 			3
+Costumes Total: 		11
+Control Blocks: 		24
+Data Blocks: 			11
+Event Blocks: 			20
+Looks Blocks: 			8
+More Blocks Blocks: 	3
+Motion Blocks: 			10
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			2
+
+Stage Counts
+---------------------------------
+Scripts: 				2
+Variables: 				4
+	Global Variables:
+		dinosaur xcor used 0 time(s)
+		dinosaur ycor used 0 time(s)
+		times used 0 time(s)
+		If used 0 time(s)
+Lists: 					1
+	Global Lists:
+		sprites used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				6
+Control Blocks: 		3
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			1
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: STOP
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		dinosaur xcor used 0 time(s)
+		dinosaur ycor used 0 time(s)
+		times used 0 time(s)
+		If used 6 time(s)
+Lists: 					0
+	Global Lists:
+		sprites used 0 time(s)
+ScriptComments: 		0
+Sounds: 				0
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			1
+Event Blocks: 			6
+Looks Blocks: 			0
+More Blocks Blocks: 	3
+Motion Blocks: 			2
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: the_background
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		dinosaur xcor used 0 time(s)
+		dinosaur ycor used 0 time(s)
+		times used 0 time(s)
+		If used 0 time(s)
+Lists: 					0
+	Global Lists:
+		sprites used 0 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Dinosaur
+Scripts: 				10
+Variables: 				0
+	Global Variables:
+		dinosaur xcor used 2 time(s)
+		dinosaur ycor used 2 time(s)
+		times used 5 time(s)
+		If used 1 time(s)
+Lists: 					0
+	Global Lists:
+		sprites used 1 time(s)
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		12
+Data Blocks: 			10
+Event Blocks: 			10
+Looks Blocks: 			3
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

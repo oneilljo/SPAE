@@ -1,0 +1,85 @@
+SCATT Report October 17, 2017 11:32:14 PM
+
+File: project_69617738.sb2
+---------------------------------
+Scripts Total: 			3
+Sprites Total: 			2
+Variables Total: 		2
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			7
+Costumes Total: 		15
+Control Blocks: 		3
+Data Blocks: 			4
+Event Blocks: 			3
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Stage Counts
+---------------------------------
+Scripts: 				1
+Variables: 				0
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				3
+Costumes: 				4
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			1
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Sun
+Scripts: 				1
+Variables: 				1
+	Sprite Variables:
+		direction used 2 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			2
+Event Blocks: 			1
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab2
+Scripts: 				1
+Variables: 				1
+	Sprite Variables:
+		direction used 2 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				3
+Costumes: 				10
+Control Blocks: 		1
+Data Blocks: 			2
+Event Blocks: 			1
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			6
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

@@ -1,0 +1,69 @@
+SCATT Report October 18, 2017 5:50:19 AM
+
+File: project_172077867.sb2
+---------------------------------
+Scripts Total: 			6
+Sprites Total: 			1
+Variables Total: 		1
+	Global Variables:
+		times used 6 time(s)
+Lists Total: 			0
+ScriptComments Total: 	1
+Sounds Total: 			16
+Costumes Total: 		11
+Control Blocks: 		17
+Data Blocks: 			6
+Event Blocks: 			4
+Looks Blocks: 			10
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		8
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			5
+
+Stage Counts
+---------------------------------
+Scripts: 				1
+Variables: 				1
+	Global Variables:
+		times used 6 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				8
+Costumes: 				4
+Control Blocks: 		6
+Data Blocks: 			6
+Event Blocks: 			1
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			4
+
+Sprite Counts
+---------------------------------
+Sprite: Crab
+Scripts: 				5
+Variables: 				0
+	Global Variables:
+		times used 0 time(s)
+Lists: 					0
+ScriptComments: 		1
+Sounds: 				8
+Costumes: 				7
+Control Blocks: 		11
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			6
+More Blocks Blocks: 	0
+Motion Blocks: 			7
+Operator Blocks: 		4
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

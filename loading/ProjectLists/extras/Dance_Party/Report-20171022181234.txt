@@ -1,0 +1,149 @@
+SCATT Report October 22, 2017 6:12:34 PM
+
+File: project_120730451.sb2
+---------------------------------
+Scripts Total: 			14
+Sprites Total: 			5
+Variables Total: 		1
+	Global Variables:
+		timer used 0 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			7
+Costumes Total: 		22
+Control Blocks: 		17
+Data Blocks: 			0
+Event Blocks: 			14
+Looks Blocks: 			27
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			4
+
+Stage Counts
+---------------------------------
+Scripts: 				4
+Variables: 				1
+	Global Variables:
+		timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				2
+Costumes: 				6
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite Counts
+---------------------------------
+Sprite: Sprite1
+Scripts: 				0
+Variables: 				0
+	Global Variables:
+		timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Anna
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			2
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Dinosaur
+Scripts: 				2
+Variables: 				0
+	Global Variables:
+		timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			2
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			1
+
+Sprite: Catherine Dance
+Scripts: 				5
+Variables: 				0
+	Global Variables:
+		timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		5
+Data Blocks: 			0
+Event Blocks: 			5
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			2
+
+Sprite: Casey
+Scripts: 				5
+Variables: 				0
+	Global Variables:
+		timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				4
+Control Blocks: 		5
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			7
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

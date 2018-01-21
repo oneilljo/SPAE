@@ -1,0 +1,93 @@
+SCATT Report October 18, 2017 3:56:44 AM
+
+File: project_128304318.sb2
+---------------------------------
+Scripts Total: 			1
+Sprites Total: 			2
+Variables Total: 		2
+	Global Variables:
+		name used 3 time(s)
+		choice used 1 time(s)
+Lists Total: 			0
+ScriptComments Total: 	0
+Sounds Total: 			3
+Costumes Total: 		16
+Control Blocks: 		9
+Data Blocks: 			2
+Event Blocks: 			1
+Looks Blocks: 			10
+More Blocks Blocks: 	0
+Motion Blocks: 			4
+Operator Blocks: 		7
+Pen Blocks: 			0
+Sensing Blocks: 		10
+Sound Blocks: 			0
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				2
+	Global Variables:
+		name used 0 time(s)
+		choice used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Crab
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		name used 3 time(s)
+		choice used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		7
+Data Blocks: 			2
+Event Blocks: 			1
+Looks Blocks: 			10
+More Blocks Blocks: 	0
+Motion Blocks: 			4
+Operator Blocks: 		5
+Pen Blocks: 			0
+Sensing Blocks: 		8
+Sound Blocks: 			0
+
+Sprite: Crab2
+Scripts: 				1
+Variables: 				0
+	Global Variables:
+		name used 0 time(s)
+		choice used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		2
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

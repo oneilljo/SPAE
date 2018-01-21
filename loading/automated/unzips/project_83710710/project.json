@@ -1,0 +1,1761 @@
+{
+    "variables": [
+        {
+            "value": "1",
+            "isPersistent": false,
+            "name": "fisheye"
+        }
+    ],
+    "objName": "Stage",
+    "info": {
+        "flashVersion": "LNX 19,0,0,245",
+        "swfVersion": "v441",
+        "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 7390.68.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.82 Safari/537.36",
+        "spriteCount": 9,
+        "scriptCount": 30,
+        "videoOn": false,
+        "hasCloudData": false,
+        "projectID": "83710710"
+    },
+    "penLayerID": -1,
+    "sounds": [
+        {
+            "format": "",
+            "rate": 11025,
+            "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+            "soundName": "pop",
+            "sampleCount": 258,
+            "soundID": 0
+        }
+    ],
+    "currentCostumeIndex": 1,
+    "videoAlpha": 0.5,
+    "tempoBPM": 119,
+    "penLayerMD5": "5c81a336fab8be57adc039a8a2b33ca9.png",
+    "costumes": [
+        {
+            "bitmapResolution": 2,
+            "baseLayerID": 0,
+            "baseLayerMD5": "a3887192d40007630efccb0e018dbdd6.png",
+            "costumeName": "cave",
+            "rotationCenterX": 480,
+            "rotationCenterY": 360
+        },
+        {
+            "bitmapResolution": 1,
+            "baseLayerID": 1,
+            "baseLayerMD5": "647a9aa008c6a17ba1cdd4a47c664969.svg",
+            "costumeName": "town",
+            "rotationCenterX": 240,
+            "rotationCenterY": 180
+        },
+        {
+            "bitmapResolution": 1,
+            "baseLayerID": 2,
+            "baseLayerMD5": "1393a5f7f5a3b635ad923bd3b2a4d674.svg",
+            "costumeName": "house",
+            "rotationCenterX": 240,
+            "rotationCenterY": 180
+        },
+        {
+            "bitmapResolution": 1,
+            "baseLayerID": 3,
+            "baseLayerMD5": "556c5cea5bed4479bfb8e572eeaeb253.svg",
+            "costumeName": "forest",
+            "rotationCenterX": 240,
+            "rotationCenterY": 180
+        }
+    ],
+    "children": [
+        {
+            "objName": "Object",
+            "scale": 1,
+            "indexInLibrary": 5,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 1
+                },
+                {
+                    "format": "",
+                    "rate": 22050,
+                    "md5": "b92de59d992a655c1b542223a784cda6.wav",
+                    "soundName": "fairydust",
+                    "sampleCount": 11247,
+                    "soundID": 2
+                }
+            ],
+            "scratchY": 36,
+            "spriteInfo": {},
+            "variables": [
+                {
+                    "value": 10,
+                    "isPersistent": false,
+                    "name": ""
+                }
+            ],
+            "isDraggable": false,
+            "currentCostumeIndex": 7,
+            "scripts": [
+                [
+                    76,
+                    176,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "forest"
+                        ],
+                        [
+                            "show"
+                        ],
+                        [
+                            "doUntil",
+                            false,
+                            null
+                        ]
+                    ]
+                ],
+                [
+                    44,
+                    63.2,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "town"
+                        ],
+                        [
+                            "hide"
+                        ]
+                    ]
+                ],
+                [
+                    107.25,
+                    391.95,
+                    [
+                        [
+                            "concatenate:with:",
+                            "costume name: ",
+                            [
+                                "costumeName"
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    226.15,
+                    289.6,
+                    [
+                        [
+                            "doForLoop",
+                            "",
+                            "10",
+                            null
+                        ]
+                    ]
+                ]
+            ],
+            "visible": false,
+            "costumes": [
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 4,
+                    "baseLayerMD5": "88d931c9373db7a64051414ff5c2a788.png",
+                    "costumeName": "gold",
+                    "rotationCenterX": 32,
+                    "rotationCenterY": 30
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 5,
+                    "baseLayerMD5": "816a10df909626abfc2e7e2db013c007.png",
+                    "costumeName": "book",
+                    "rotationCenterX": 32,
+                    "rotationCenterY": 30
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 6,
+                    "baseLayerMD5": "e3584efd6eea947d635f0a6f290ca2b6.png",
+                    "costumeName": "gem",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 26
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 7,
+                    "baseLayerMD5": "afc1ce86a08f6323097790300fa1ae69.png",
+                    "costumeName": "scroll",
+                    "rotationCenterX": 32,
+                    "rotationCenterY": 26
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 8,
+                    "baseLayerMD5": "fd0bd63e2afbe4dc7db35e189405db90.png",
+                    "costumeName": "key",
+                    "rotationCenterX": 30,
+                    "rotationCenterY": 16
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 9,
+                    "baseLayerMD5": "b1f9dd6709eba710045cec640f912de4.png",
+                    "costumeName": "ring",
+                    "rotationCenterX": 26,
+                    "rotationCenterY": 24
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 10,
+                    "baseLayerMD5": "9e7b4d153421dae04a24571d7e079e85.svg",
+                    "costumeName": "donut",
+                    "rotationCenterX": 73,
+                    "rotationCenterY": 15
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 11,
+                    "baseLayerMD5": "8b8007e3ec23114832dddbcc5b12a6ca.png",
+                    "costumeName": "cheesy-puffs",
+                    "rotationCenterX": 87,
+                    "rotationCenterY": 72
+                }
+            ],
+            "direction": 90,
+            "scratchX": -64
+        },
+        {
+            "objName": "House Entrance",
+            "scale": 2,
+            "indexInLibrary": 2,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 3
+                }
+            ],
+            "scratchY": 28,
+            "spriteInfo": {},
+            "isDraggable": false,
+            "currentCostumeIndex": 0,
+            "scripts": [
+                [
+                    414.6,
+                    395.1,
+                    [
+                        [
+                            "touching:",
+                            "Character"
+                        ]
+                    ]
+                ],
+                [
+                    89,
+                    121,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "doIf",
+                                    [
+                                        "touching:",
+                                        "Character"
+                                    ],
+                                    [
+                                        [
+                                            "startScene",
+                                            "house"
+                                        ],
+                                        [
+                                            "broadcast:",
+                                            "A1"
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    37.85,
+                    305.65,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "town"
+                        ],
+                        [
+                            "show"
+                        ]
+                    ]
+                ],
+                [
+                    96,
+                    388,
+                    [
+                        [
+                            "whenIReceive",
+                            "A1"
+                        ],
+                        [
+                            "hide"
+                        ]
+                    ]
+                ]
+            ],
+            "visible": true,
+            "costumes": [
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 12,
+                    "baseLayerMD5": "c63a15cd84e92e8b527b0d31039a367b.png",
+                    "costumeName": "house",
+                    "rotationCenterX": 64,
+                    "rotationCenterY": 46
+                }
+            ],
+            "direction": 90,
+            "scratchX": 35.80000000000001
+        },
+        {
+            "objName": "Forest Entrance",
+            "scale": 1,
+            "indexInLibrary": 3,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 4
+                }
+            ],
+            "scratchY": 223.65,
+            "spriteInfo": {},
+            "isDraggable": false,
+            "currentCostumeIndex": 0,
+            "scripts": [
+                [
+                    10,
+                    10,
+                    [
+                        [
+                            "whenIReceive",
+                            "A1"
+                        ],
+                        [
+                            "hide"
+                        ]
+                    ]
+                ],
+                [
+                    10,
+                    76,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "town"
+                        ],
+                        [
+                            "show"
+                        ]
+                    ]
+                ],
+                [
+                    11.6,
+                    209.6,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "doIf",
+                                    [
+                                        "touching:",
+                                        "Character"
+                                    ],
+                                    [
+                                        [
+                                            "startScene",
+                                            "forest"
+                                        ],
+                                        [
+                                            "broadcast:",
+                                            "A1"
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            "visible": true,
+            "costumes": [
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 13,
+                    "baseLayerMD5": "893da9157bf4e0c80d8070db885492e4.png",
+                    "costumeName": "forest-entrance",
+                    "rotationCenterX": 242,
+                    "rotationCenterY": 290
+                }
+            ],
+            "direction": 90,
+            "scratchX": -127
+        },
+        {
+            "objName": "Character",
+            "scale": 1,
+            "indexInLibrary": 1,
+            "rotationStyle": "leftRight",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 5
+                },
+                {
+                    "format": "adpcm",
+                    "rate": 22050,
+                    "md5": "072f4d9a3dfd2a082d50ff90ac7dc8f2.wav",
+                    "soundName": "triumph",
+                    "sampleCount": 89280,
+                    "soundID": 6
+                },
+                {
+                    "format": "adpcm",
+                    "rate": 22050,
+                    "md5": "0edb8fb88af19e6e17d0f8cf64c1d136.wav",
+                    "soundName": "dance celebrate",
+                    "sampleCount": 176401,
+                    "soundID": 7
+                },
+                {
+                    "format": "adpcm",
+                    "rate": 22050,
+                    "md5": "b235da45581b1f212c9e9cce70d2a2dc.wav",
+                    "soundName": "dance chill out",
+                    "sampleCount": 222822,
+                    "soundID": 8
+                },
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "01f5372ddac43001a2db4c82d71f37bb.wav",
+                    "soundName": "zoop",
+                    "sampleCount": 2764,
+                    "soundID": 9
+                }
+            ],
+            "scratchY": -41,
+            "spriteInfo": {},
+            "isDraggable": false,
+            "currentCostumeIndex": 6,
+            "scripts": [
+                [
+                    10,
+                    10,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "gotoX:y:",
+                            -139,
+                            -161
+                        ],
+                        [
+                            "startScene",
+                            "town"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "changeGraphicEffect:by:",
+                                    "color",
+                                    10
+                                ],
+                                [
+                                    "doIf",
+                                    [
+                                        "keyPressed:",
+                                        "left arrow"
+                                    ],
+                                    [
+                                        [
+                                            "heading:",
+                                            -90
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "side1"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "side2"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "side0"
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "doIf",
+                                    [
+                                        "keyPressed:",
+                                        "up arrow"
+                                    ],
+                                    [
+                                        [
+                                            "filterReset"
+                                        ],
+                                        [
+                                            "changeGraphicEffect:by:",
+                                            "mosaic",
+                                            0
+                                        ],
+                                        [
+                                            "heading:",
+                                            0
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "up1"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "up2"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "up0"
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "doIf",
+                                    [
+                                        "keyPressed:",
+                                        "right arrow"
+                                    ],
+                                    [
+                                        [
+                                            "heading:",
+                                            90
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "side1"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "side2"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "side0"
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "doIf",
+                                    [
+                                        "keyPressed:",
+                                        "down arrow"
+                                    ],
+                                    [
+                                        [
+                                            "heading:",
+                                            180
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "down1"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "down2"
+                                        ],
+                                        [
+                                            "forward:",
+                                            10
+                                        ],
+                                        [
+                                            "wait:elapsed:from:",
+                                            0.1
+                                        ],
+                                        [
+                                            "lookLike:",
+                                            "down0"
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "doIf",
+                                    [
+                                        "&",
+                                        [
+                                            "touching:",
+                                            "Object"
+                                        ],
+                                        [
+                                            "=",
+                                            [
+                                                "sceneName"
+                                            ],
+                                            "forest"
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            "playSound:",
+                                            "triumph"
+                                        ],
+                                        [
+                                            "broadcast:",
+                                            "Win"
+                                        ],
+                                        [
+                                            "doForever",
+                                            [
+                                                [
+                                                    "changeGraphicEffect:by:",
+                                                    "color",
+                                                    25
+                                                ],
+                                                [
+                                                    "nextCostume"
+                                                ],
+                                                [
+                                                    "doPlaySoundAndWait",
+                                                    "dance celebrate"
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    421,
+                    10,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "forest"
+                        ],
+                        [
+                            "say:duration:elapsed:from:",
+                            [
+                                "concatenate:with:",
+                                "I'm scared, ",
+                                [
+                                    "concatenate:with:",
+                                    [
+                                        "getUserName"
+                                    ],
+                                    ", but we found the Cheesy Puffs!"
+                                ]
+                            ],
+                            5
+                        ]
+                    ]
+                ],
+                [
+                    421,
+                    95,
+                    [
+                        [
+                            "whenClicked"
+                        ],
+                        [
+                            "say:duration:elapsed:from:",
+                            [
+                                "concatenate:with:",
+                                [
+                                    "concatenate:with:",
+                                    "The time is ",
+                                    [
+                                        "concatenate:with:",
+                                        [
+                                            "timeAndDate",
+                                            "hour"
+                                        ],
+                                        ":"
+                                    ]
+                                ],
+                                [
+                                    "concatenate:with:",
+                                    [
+                                        "timeAndDate",
+                                        "minute"
+                                    ],
+                                    [
+                                        "concatenate:with:",
+                                        ", ",
+                                        [
+                                            "getUserName"
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            2
+                        ]
+                    ]
+                ],
+                [
+                    421,
+                    184,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "cave"
+                        ],
+                        [
+                            "say:duration:elapsed:from:",
+                            "R\u0332U\u0332N\u0332!\u0332",
+                            2
+                        ],
+                        [
+                            "doUntil",
+                            [
+                                "not",
+                                [
+                                    "=",
+                                    [
+                                        "sceneName"
+                                    ],
+                                    "cave"
+                                ]
+                            ],
+                            [
+                                [
+                                    "doPlaySoundAndWait",
+                                    "zoop"
+                                ],
+                                [
+                                    "changeTempoBy:",
+                                    3
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    421,
+                    321,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "house"
+                        ],
+                        [
+                            "say:duration:elapsed:from:",
+                            "Nothing here..",
+                            2
+                        ],
+                        [
+                            "doUntil",
+                            [
+                                "not",
+                                [
+                                    "=",
+                                    [
+                                        "sceneName"
+                                    ],
+                                    "house"
+                                ]
+                            ],
+                            [
+                                [
+                                    "doPlaySoundAndWait",
+                                    "dance chill out"
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            "visible": true,
+            "costumes": [
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 14,
+                    "baseLayerMD5": "9b0a9586da8becfb1fd32651fbf3addf.png",
+                    "costumeName": "down0",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 30
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 15,
+                    "baseLayerMD5": "9e23151c146f742f0405a6d46d7ee61f.png",
+                    "costumeName": "down1",
+                    "rotationCenterX": 26,
+                    "rotationCenterY": 28
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 16,
+                    "baseLayerMD5": "a3a7511edd3da07da27ab099e8ad8460.png",
+                    "costumeName": "down2",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 28
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 17,
+                    "baseLayerMD5": "9efdd1da06d5514b53f1d8077d041df9.png",
+                    "costumeName": "side0",
+                    "rotationCenterX": 20,
+                    "rotationCenterY": 28
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 18,
+                    "baseLayerMD5": "dae57a75e74df3195d9b951a0e4f3c41.png",
+                    "costumeName": "side1",
+                    "rotationCenterX": 20,
+                    "rotationCenterY": 28
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 19,
+                    "baseLayerMD5": "a92ab597b21ab6417dd462024eb2542a.png",
+                    "costumeName": "side2",
+                    "rotationCenterX": 20,
+                    "rotationCenterY": 28
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 20,
+                    "baseLayerMD5": "13f5c9c2acab2060f40616b6cf782aeb.png",
+                    "costumeName": "up0",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 30
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 21,
+                    "baseLayerMD5": "dab5fa6b7bc49b39adb678a79865f006.png",
+                    "costumeName": "up1",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 28
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 22,
+                    "baseLayerMD5": "8b9377d8e294cf17f646a316e004e638.png",
+                    "costumeName": "up2",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 28
+                }
+            ],
+            "direction": 0,
+            "scratchX": -159
+        },
+        {
+            "objName": "Exit",
+            "scale": 1,
+            "indexInLibrary": 4,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 10
+                }
+            ],
+            "scratchY": -157,
+            "spriteInfo": {},
+            "isDraggable": false,
+            "currentCostumeIndex": 0,
+            "scripts": [
+                [
+                    32.35,
+                    16.45,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "town"
+                        ],
+                        [
+                            "hide"
+                        ]
+                    ]
+                ],
+                [
+                    5,
+                    160,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "forest"
+                        ],
+                        [
+                            "lookLike:",
+                            "forest-exit"
+                        ]
+                    ]
+                ],
+                [
+                    253.6,
+                    182.35,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "cave"
+                        ],
+                        [
+                            "lookLike:",
+                            "cave-exit"
+                        ]
+                    ]
+                ],
+                [
+                    178.4,
+                    86.4,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "house"
+                        ],
+                        [
+                            "lookLike:",
+                            "door"
+                        ]
+                    ]
+                ],
+                [
+                    61.15,
+                    106.8,
+                    [
+                        [
+                            "whenIReceive",
+                            "A1"
+                        ],
+                        [
+                            "show"
+                        ]
+                    ]
+                ],
+                [
+                    84.35,
+                    333.6,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "doIf",
+                                    [
+                                        "touching:",
+                                        "Character"
+                                    ],
+                                    [
+                                        [
+                                            "startScene",
+                                            "town"
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            "visible": false,
+            "costumes": [
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 23,
+                    "baseLayerMD5": "503872993c40a4d59c23592d852c338e.svg",
+                    "costumeName": "door",
+                    "rotationCenterX": 20,
+                    "rotationCenterY": -16
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 24,
+                    "baseLayerMD5": "248a0be3be30a4c894efc9dc5eaf2dd0.svg",
+                    "costumeName": "cave-exit",
+                    "rotationCenterX": 60,
+                    "rotationCenterY": 52
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 25,
+                    "baseLayerMD5": "6043472562a9723ec6e3d7bebbd96315.svg",
+                    "costumeName": "forest-exit",
+                    "rotationCenterX": 61,
+                    "rotationCenterY": 26
+                }
+            ],
+            "direction": 90,
+            "scratchX": -139
+        },
+        {
+            "objName": "Fortune Cookie",
+            "scale": 1,
+            "indexInLibrary": 7,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 11
+                }
+            ],
+            "scratchY": 143.05,
+            "spriteInfo": {},
+            "isDraggable": false,
+            "currentCostumeIndex": 0,
+            "scripts": [
+                [
+                    10,
+                    10,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "doIf",
+                                    [
+                                        "touching:",
+                                        "Character"
+                                    ],
+                                    [
+                                        [
+                                            "startScene",
+                                            "cave"
+                                        ],
+                                        [
+                                            "broadcast:",
+                                            "A1"
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    10,
+                    10,
+                    [
+                        [
+                            "whenSceneStarts",
+                            "town"
+                        ],
+                        [
+                            "show"
+                        ]
+                    ]
+                ],
+                [
+                    220,
+                    94,
+                    [
+                        [
+                            "whenIReceive",
+                            "A1"
+                        ],
+                        [
+                            "hide"
+                        ]
+                    ]
+                ]
+            ],
+            "visible": true,
+            "costumes": [
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 26,
+                    "baseLayerMD5": "c56dcaa1fa4e3c9740142b93d5982850.png",
+                    "costumeName": "fortunecookie",
+                    "rotationCenterX": 60,
+                    "rotationCenterY": 62
+                }
+            ],
+            "direction": 90,
+            "scratchX": 208.95
+        },
+        {
+            "objName": "Narrative",
+            "scale": 1,
+            "indexInLibrary": 6,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 12
+                }
+            ],
+            "scratchY": 0,
+            "spriteInfo": {},
+            "variables": [
+                {
+                    "value": "",
+                    "isPersistent": false,
+                    "name": "msgReceived"
+                }
+            ],
+            "isDraggable": false,
+            "currentCostumeIndex": 3,
+            "scripts": [
+                [
+                    87.2,
+                    149.7,
+                    [
+                        [
+                            "procDef",
+                            "Intro Start",
+                            [],
+                            [],
+                            false
+                        ],
+                        [
+                            "gotoX:y:",
+                            0,
+                            0
+                        ],
+                        [
+                            "show"
+                        ],
+                        [
+                            "comeToFront"
+                        ],
+                        [
+                            "lookLike:",
+                            "slide 1"
+                        ],
+                        [
+                            "wait:elapsed:from:",
+                            2
+                        ],
+                        [
+                            "lookLike:",
+                            "slide 2"
+                        ],
+                        [
+                            "wait:elapsed:from:",
+                            2
+                        ],
+                        [
+                            "lookLike:",
+                            "slide 3"
+                        ],
+                        [
+                            "wait:elapsed:from:",
+                            2
+                        ],
+                        [
+                            "doAsk",
+                            "Will you?"
+                        ],
+                        [
+                            "wait:elapsed:from:",
+                            2
+                        ],
+                        [
+                            "doIf",
+                            [
+                                "=",
+                                [
+                                    "answer"
+                                ],
+                                "Yes"
+                            ],
+                            [
+                                [
+                                    "lookLike:",
+                                    "slide 4"
+                                ],
+                                [
+                                    "wait:elapsed:from:",
+                                    2
+                                ],
+                                [
+                                    "hide"
+                                ]
+                            ]
+                        ],
+                        [
+                            "doIf",
+                            [
+                                "=",
+                                [
+                                    "answer"
+                                ],
+                                "No"
+                            ],
+                            [
+                                [
+                                    "lookLike:",
+                                    "slide 5"
+                                ],
+                                [
+                                    "wait:elapsed:from:",
+                                    1
+                                ],
+                                [
+                                    "stopScripts",
+                                    "all"
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    250.4,
+                    185.2,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "call",
+                            "Intro Start"
+                        ],
+                        [
+                            "call",
+                            "wait until I receive %m.broadcast",
+                            "Win"
+                        ]
+                    ]
+                ],
+                [
+                    290,
+                    355,
+                    [
+                        [
+                            "procDef",
+                            "wait until I receive %m.broadcast",
+                            [
+                                "broadcast"
+                            ],
+                            [
+                                ""
+                            ],
+                            false
+                        ],
+                        [
+                            "setVar:to:",
+                            "msgReceived",
+                            ""
+                        ],
+                        [
+                            "doWaitUntil",
+                            [
+                                "=",
+                                [
+                                    "readVariable",
+                                    "msgReceived"
+                                ],
+                                [
+                                    "getParam",
+                                    "broadcast",
+                                    "r"
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    357,
+                    536,
+                    [
+                        [
+                            "whenIReceive",
+                            "Win"
+                        ],
+                        [
+                            "show"
+                        ],
+                        [
+                            "lookLike:",
+                            "slide 6"
+                        ]
+                    ]
+                ],
+                [
+                    317,
+                    554,
+                    [
+                        [
+                            "whenIReceive",
+                            "Skip"
+                        ],
+                        [
+                            "hide"
+                        ],
+                        [
+                            "stopScripts",
+                            "other scripts in sprite"
+                        ]
+                    ]
+                ]
+            ],
+            "visible": false,
+            "costumes": [
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 27,
+                    "baseLayerMD5": "a8010f7058082aa981df4fa45f49b8ed.svg",
+                    "costumeName": "slide 1",
+                    "rotationCenterX": 240,
+                    "rotationCenterY": 180
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 28,
+                    "baseLayerMD5": "07146335c62d8334ad186ef603f06d55.svg",
+                    "costumeName": "slide 2",
+                    "rotationCenterX": 240,
+                    "rotationCenterY": 180
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 29,
+                    "baseLayerMD5": "43c0d913533c91201bb8ffd4fc8160ea.svg",
+                    "costumeName": "slide 3",
+                    "rotationCenterX": 240,
+                    "rotationCenterY": 180
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 30,
+                    "baseLayerMD5": "11d2de8446a710c2c8056cbd4b0f98e5.svg",
+                    "costumeName": "slide 4",
+                    "rotationCenterX": 240,
+                    "rotationCenterY": 180
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 31,
+                    "baseLayerMD5": "9dd8689ca6f06e5c6695516848806459.svg",
+                    "costumeName": "slide 5",
+                    "rotationCenterX": 240,
+                    "rotationCenterY": 180
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 32,
+                    "baseLayerMD5": "3d30c4318416925d21e08d6a28e1a84b.png",
+                    "costumeName": "slide 6",
+                    "rotationCenterX": 480,
+                    "rotationCenterY": 360
+                }
+            ],
+            "direction": 90,
+            "scratchX": 0
+        },
+        {
+            "objName": "Arrow1",
+            "scale": 1,
+            "indexInLibrary": 9,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 13
+                }
+            ],
+            "scratchY": 141,
+            "spriteInfo": {},
+            "isDraggable": false,
+            "currentCostumeIndex": 0,
+            "scripts": [
+                [
+                    222,
+                    101,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "show"
+                        ],
+                        [
+                            "comeToFront"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "changeGraphicEffect:by:",
+                                    "color",
+                                    25
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    89,
+                    34,
+                    [
+                        [
+                            "whenClicked"
+                        ],
+                        [
+                            "playSound:",
+                            "pop"
+                        ],
+                        [
+                            "hide"
+                        ],
+                        [
+                            "broadcast:",
+                            "Skip"
+                        ]
+                    ]
+                ]
+            ],
+            "visible": false,
+            "costumes": [
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 33,
+                    "baseLayerMD5": "3b4806efc92823d4671c24a57eabf2f0.svg",
+                    "costumeName": "arrow1-a",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 24
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 34,
+                    "baseLayerMD5": "c570fdbde334b1176afa1811a22cc87d.svg",
+                    "costumeName": "arrow1-b",
+                    "rotationCenterX": 28,
+                    "rotationCenterY": 23
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 35,
+                    "baseLayerMD5": "b3dc0daa531803069efebc471351160c.svg",
+                    "costumeName": "arrow1-c",
+                    "rotationCenterX": 23,
+                    "rotationCenterY": 28
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 36,
+                    "baseLayerMD5": "b4b22d510e916a6e9c1f9d6b9cd2ca6e.svg",
+                    "costumeName": "arrow1-d",
+                    "rotationCenterX": 23,
+                    "rotationCenterY": 28
+                }
+            ],
+            "direction": 90,
+            "scratchX": 187
+        },
+        {
+            "objName": "Peanut-butter-jelly-time",
+            "scale": 0.25,
+            "indexInLibrary": 8,
+            "rotationStyle": "normal",
+            "sounds": [
+                {
+                    "format": "",
+                    "rate": 11025,
+                    "md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+                    "soundName": "pop",
+                    "sampleCount": 258,
+                    "soundID": 14
+                }
+            ],
+            "scratchY": 10,
+            "spriteInfo": {},
+            "isDraggable": false,
+            "currentCostumeIndex": 6,
+            "scripts": [
+                [
+                    66,
+                    104,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "comeToFront"
+                        ],
+                        [
+                            "setVar:to:",
+                            "fisheye",
+                            "1"
+                        ],
+                        [
+                            "setSizeTo:",
+                            25
+                        ],
+                        [
+                            "filterReset"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "gotoX:y:",
+                                    10,
+                                    10
+                                ],
+                                [
+                                    "nextCostume"
+                                ],
+                                [
+                                    "wait:elapsed:from:",
+                                    0
+                                ],
+                                [
+                                    "changeGraphicEffect:by:",
+                                    "color",
+                                    1
+                                ],
+                                [
+                                    "doIf",
+                                    [
+                                        "touching:",
+                                        "_mouse_"
+                                    ],
+                                    [
+                                        [
+                                            "changeGraphicEffect:by:",
+                                            "whirl",
+                                            [
+                                                "readVariable",
+                                                "fisheye"
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    298,
+                    123,
+                    [
+                        [
+                            "randomFrom:to:",
+                            240,
+                            -240
+                        ]
+                    ]
+                ],
+                [
+                    311,
+                    133,
+                    [
+                        [
+                            "randomFrom:to:",
+                            -240,
+                            240
+                        ]
+                    ]
+                ]
+            ],
+            "visible": true,
+            "costumes": [
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 37,
+                    "baseLayerMD5": "134f9b1fff0cc744530577e5c6881ae0.png",
+                    "costumeName": "Peanut-butter-jelly-time-0",
+                    "rotationCenterX": 120,
+                    "rotationCenterY": 76
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 38,
+                    "baseLayerMD5": "ddd0fdafc1c4189606979362ad825b47.png",
+                    "costumeName": "Peanut-butter-jelly-time-1",
+                    "rotationCenterX": 170,
+                    "rotationCenterY": 162
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 39,
+                    "baseLayerMD5": "ec779264f3240f8dda28315e12b88459.png",
+                    "costumeName": "Peanut-butter-jelly-time-2",
+                    "rotationCenterX": 170,
+                    "rotationCenterY": 162
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 40,
+                    "baseLayerMD5": "c99e555748d2b48f7f6bedc5e73753ab.png",
+                    "costumeName": "Peanut-butter-jelly-time-3",
+                    "rotationCenterX": 212,
+                    "rotationCenterY": 130
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 41,
+                    "baseLayerMD5": "1e52950ecf13cf555ea50ae0c98a22cc.png",
+                    "costumeName": "Peanut-butter-jelly-time-4",
+                    "rotationCenterX": 170,
+                    "rotationCenterY": 162
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 42,
+                    "baseLayerMD5": "572c4ccebf0107d4b409466570759c5f.png",
+                    "costumeName": "Peanut-butter-jelly-time-5",
+                    "rotationCenterX": 170,
+                    "rotationCenterY": 162
+                },
+                {
+                    "bitmapResolution": 1,
+                    "baseLayerID": 43,
+                    "baseLayerMD5": "908fc0db1a7069d9de76d1a54e511234.png",
+                    "costumeName": "Peanut-butter-jelly-time-6",
+                    "rotationCenterX": 170,
+                    "rotationCenterY": 162
+                },
+                {
+                    "bitmapResolution": 2,
+                    "baseLayerID": 44,
+                    "baseLayerMD5": "be50010870130185353422193cf13966.png",
+                    "costumeName": "Peanut-butter-jelly-time-7",
+                    "rotationCenterX": 160,
+                    "rotationCenterY": 130
+                }
+            ],
+            "direction": 90,
+            "scratchX": 10
+        },
+        {
+            "x": 5,
+            "mode": 1,
+            "param": "minute",
+            "isDiscrete": true,
+            "color": 2926050,
+            "y": 5,
+            "cmd": "timeAndDate",
+            "label": "minute",
+            "target": "Stage",
+            "sliderMin": 0,
+            "sliderMax": 100,
+            "visible": false
+        },
+        {
+            "x": 5,
+            "mode": 1,
+            "param": "fisheye",
+            "isDiscrete": true,
+            "color": 15629590,
+            "y": 32,
+            "cmd": "getVar:",
+            "label": "fisheye",
+            "target": "Stage",
+            "sliderMin": 0,
+            "sliderMax": 100,
+            "visible": false
+        }
+    ]
+}

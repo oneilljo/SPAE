@@ -1,0 +1,369 @@
+SCATT Report October 18, 2017 3:34:35 PM
+
+File: project_75142062.sb2
+---------------------------------
+Scripts Total: 			133
+Sprites Total: 			16
+Variables Total: 		1
+	Global Variables:
+		Timer used 16 time(s)
+Lists Total: 			0
+ScriptComments Total: 	3
+Sounds Total: 			17
+Costumes Total: 		67
+Control Blocks: 		188
+Data Blocks: 			14
+Event Blocks: 			155
+Looks Blocks: 			209
+More Blocks Blocks: 	0
+Motion Blocks: 			49
+Operator Blocks: 		86
+Pen Blocks: 			0
+Sensing Blocks: 		20
+Sound Blocks: 			1
+
+Stage Counts
+---------------------------------
+Scripts: 				0
+Variables: 				1
+	Global Variables:
+		Timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		0
+Data Blocks: 			0
+Event Blocks: 			0
+Looks Blocks: 			0
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite Counts
+---------------------------------
+Sprite: Present
+Scripts: 				4
+Variables: 				0
+	Global Variables:
+		Timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		1
+Data Blocks: 			0
+Event Blocks: 			4
+Looks Blocks: 			6
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Arrow
+Scripts: 				6
+Variables: 				0
+	Global Variables:
+		Timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		2
+Data Blocks: 			0
+Event Blocks: 			6
+Looks Blocks: 			8
+More Blocks Blocks: 	0
+Motion Blocks: 			0
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		1
+Sound Blocks: 			0
+
+Sprite: Sprite2
+Scripts: 				6
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				3
+Control Blocks: 		9
+Data Blocks: 			0
+Event Blocks: 			10
+Looks Blocks: 			18
+More Blocks Blocks: 	0
+Motion Blocks: 			2
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Box4
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box1
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box2
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box3
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box6
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box5
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box7
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box8
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 1 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				5
+Control Blocks: 		16
+Data Blocks: 			1
+Event Blocks: 			13
+Looks Blocks: 			17
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		9
+Pen Blocks: 			0
+Sensing Blocks: 		2
+Sound Blocks: 			0
+
+Sprite: Box + Timer
+Scripts: 				9
+Variables: 				0
+	Global Variables:
+		Timer used 7 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				1
+Control Blocks: 		7
+Data Blocks: 			6
+Event Blocks: 			11
+Looks Blocks: 			4
+More Blocks Blocks: 	0
+Motion Blocks: 			1
+Operator Blocks: 		1
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Crab
+Scripts: 				11
+Variables: 				0
+	Global Variables:
+		Timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		3
+Sounds: 				1
+Costumes: 				7
+Control Blocks: 		23
+Data Blocks: 			0
+Event Blocks: 			11
+Looks Blocks: 			22
+More Blocks Blocks: 	0
+Motion Blocks: 			12
+Operator Blocks: 		12
+Pen Blocks: 			0
+Sensing Blocks: 		3
+Sound Blocks: 			1
+
+Sprite: You Win!!!
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		Timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			9
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Heart Face
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		Timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+Sprite: Sprite1
+Scripts: 				3
+Variables: 				0
+	Global Variables:
+		Timer used 0 time(s)
+Lists: 					0
+ScriptComments: 		0
+Sounds: 				1
+Costumes: 				2
+Control Blocks: 		6
+Data Blocks: 			0
+Event Blocks: 			3
+Looks Blocks: 			5
+More Blocks Blocks: 	0
+Motion Blocks: 			8
+Operator Blocks: 		0
+Pen Blocks: 			0
+Sensing Blocks: 		0
+Sound Blocks: 			0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
