@@ -52,10 +52,11 @@ img{
             exec("mv -f project_" . $projectID . ".sb2 ../SCATT2/submissions/" . $projectID . ".sb2");
 	    exec("sleep 1");
             exec("/usr/bin/java -jar ../SCATT2/Scatt.jar");
-	    
+	   
 	    //Cleanup for disk space
 	    exec("rm -rf ../SCATT2/submissions/" . $projectID . ".sb2");
 	    exec("rm -rf zips/" . $projectID . ".zip");
+	    exec("mv unzips/" . $projectID . "/project.json ../savedReports/project_" . $projectID);
 	    exec("rm -rf unzips/" . $projectID);
         }
         download();
