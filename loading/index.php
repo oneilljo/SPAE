@@ -44,20 +44,22 @@ img{
         {
             $projectID = preg_replace('/[^0-9]/',"",$_POST["project"]);
 
-	    //echo($projectID);
-	    exec("./projectdownloader.py " . $projectID);
+	    shell_exec("./projectdownloader.py " . $projectID);
+
+	    shell_exec("sleep 1");
 	    
-	    exec("chmod 777 project_" . $projectID . ".sb2");
-            exec("cp project_" . $projectID . ".sb2 ../savedProjects");
-            exec("mv -f project_" . $projectID . ".sb2 ../SCATT2/submissions/" . $projectID . ".sb2");
-	    exec("sleep 1");
-            exec("/usr/bin/java -jar ../SCATT2/Scatt.jar");
+	    shell_exec("chmod 777 project_" . $projectID . ".sb2");
+	    shell_exec("chown apache:apache project_" . $projectID . ".sb2");
+            shell_exec("cp project_" . $projectID . ".sb2 ../savedProjects");
+            shell_exec("mv -f project_" . $projectID . ".sb2 ../SCATT/submissions/project_" . $projectID . ".sb2");
+	    shell_exec("sleep 1");
+            shell_exec("/usr/bin/java -jar ../SCATT/Scatt.jar");
 	   
 	    //Cleanup for disk space
-	    exec("rm -rf ../SCATT2/submissions/" . $projectID . ".sb2");
-	    exec("rm -rf zips/" . $projectID . ".zip");
-	    exec("mv unzips/" . $projectID . "/project.json ../savedReports/project_" . $projectID);
-	    exec("rm -rf unzips/" . $projectID);
+	    shell_exec("rm -rf ../SCATT/submissions/" . $projectID . ".sb2");
+	    shell_exec("rm -rf zips/" . $projectID . ".zip");
+	    shell_exec("mv unzips/project_" . $projectID . "/project.json ../savedReports/project_" . $projectID);
+	    shell_exec("rm -rf unzips/" . $projectID);
         }
         download();
       ?>
@@ -73,7 +75,7 @@ img{
           function frame() {
             if (width >= 100) {
               clearInterval(id);
-              window.location = '../savedReports/?C=M;O=D';
+              window.location = '../analyzedReports/?C=M;O=D';
             } else {
               width++; 
               elem.style.width = width + '%'; 

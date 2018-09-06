@@ -36,7 +36,7 @@ public class Report
      */
     public void makeReport()
     {
-        File reportFile = new File("../savedReports/Report-" + getReportDateTime() + ".txt");
+        File reportFile = new File("/var/www/html/scratch/analyzedReports/Report-" + getReportDateTime() + ".txt");
         PrintWriter printW;
         try
         {
