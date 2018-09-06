@@ -1,2 +1,0 @@
-Main-Class: Scatt
-Class-Path: json_simple.jar
