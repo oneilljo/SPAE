@@ -1,0 +1,289 @@
+{
+    "objName": "Stage",
+    "penLayerMD5": "279467d0d49e152706ed66539b577c00.png",
+    "videoAlpha": 0.5,
+    "info": {
+        "swfVersion": "v361",
+        "projectID": "10128067",
+        "scriptCount": 5,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36",
+        "videoOn": false,
+        "hasCloudData": false,
+        "flashVersion": "MAC 11,8,800,115",
+        "spriteCount": 2
+    },
+    "costumes": [
+        {
+            "rotationCenterX": 240,
+            "baseLayerMD5": "3ad6ec3c3ff9eaca0908f365063f9bd8.svg",
+            "rotationCenterY": 180,
+            "baseLayerID": 0,
+            "bitmapResolution": 1,
+            "costumeName": "Dance Room"
+        },
+        {
+            "rotationCenterX": 480,
+            "baseLayerMD5": "273847168016e3ecc0c026f7e1e9912e.png",
+            "rotationCenterY": 360,
+            "baseLayerID": 1,
+            "bitmapResolution": 2,
+            "costumeName": "danceparty-200"
+        },
+        {
+            "rotationCenterX": 480,
+            "baseLayerMD5": "dea271c9bcea229d9b32dd8220c92c80.png",
+            "rotationCenterY": 360,
+            "baseLayerID": 2,
+            "bitmapResolution": 2,
+            "costumeName": "danceparty-10"
+        },
+        {
+            "rotationCenterX": 480,
+            "baseLayerMD5": "ad37b39d4e3d1c14bcc9aa19353ae6ba.png",
+            "rotationCenterY": 360,
+            "baseLayerID": 3,
+            "bitmapResolution": 2,
+            "costumeName": "danceparty-50"
+        },
+        {
+            "rotationCenterX": 480,
+            "baseLayerMD5": "2056c2d1d4cfd4b80c269f3a5d0f7c56.png",
+            "rotationCenterY": 360,
+            "baseLayerID": 4,
+            "bitmapResolution": 2,
+            "costumeName": "danceparty-25"
+        },
+        {
+            "rotationCenterX": 480,
+            "baseLayerMD5": "53926140dc88356b47378fbe5dd3ab96.png",
+            "rotationCenterY": 360,
+            "baseLayerID": 5,
+            "bitmapResolution": 2,
+            "costumeName": "danceparty-100"
+        }
+    ],
+    "currentCostumeIndex": 1,
+    "sounds": [
+        {
+            "md5": "dd8f44f1a0794bb844fd436256adb8b8.wav",
+            "soundID": 0,
+            "rate": 22050,
+            "sampleCount": 1015488,
+            "format": "adpcm",
+            "soundName": "Girl Like You"
+        }
+    ],
+    "scripts": [
+        [
+            10,
+            10,
+            [
+                [
+                    "whenGreenFlag"
+                ],
+                [
+                    "doForever",
+                    [
+                        [
+                            "nextScene"
+                        ],
+                        [
+                            "wait:elapsed:from:",
+                            0.5
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            10,
+            139,
+            [
+                [
+                    "whenGreenFlag"
+                ],
+                [
+                    "doForever",
+                    [
+                        [
+                            "doPlaySoundAndWait",
+                            "Girl Like You"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            257,
+            72,
+            [
+                [
+                    "changeGraphicEffect:by:",
+                    "color",
+                    25
+                ]
+            ]
+        ]
+    ],
+    "tempoBPM": 60,
+    "children": [
+        {
+            "visible": true,
+            "rotationStyle": "normal",
+            "costumes": [
+                {
+                    "rotationCenterX": 126,
+                    "baseLayerMD5": "ac727ea088740c0ad894a5e30523219a.png",
+                    "rotationCenterY": 221,
+                    "baseLayerID": 6,
+                    "bitmapResolution": 2,
+                    "costumeName": "DinoDance1"
+                },
+                {
+                    "rotationCenterX": 126,
+                    "baseLayerMD5": "b43d4ed01122db899b496afb1bc9f4c3.png",
+                    "rotationCenterY": 221,
+                    "baseLayerID": 7,
+                    "bitmapResolution": 2,
+                    "costumeName": "DinoDance2"
+                }
+            ],
+            "spriteInfo": {},
+            "indexInLibrary": 1,
+            "isDraggable": false,
+            "direction": 90,
+            "objName": "Dinosaur",
+            "currentCostumeIndex": 0,
+            "scratchY": -40,
+            "scale": 1,
+            "scratchX": -152,
+            "scripts": [
+                [
+                    23,
+                    24,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "nextCostume"
+                                ],
+                                [
+                                    "glideSecs:toX:y:elapsed:from:",
+                                    0.5,
+                                    -80,
+                                    -40
+                                ],
+                                [
+                                    "nextCostume"
+                                ],
+                                [
+                                    "glideSecs:toX:y:elapsed:from:",
+                                    0.5,
+                                    -170,
+                                    -40
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        },
+        {
+            "visible": true,
+            "rotationStyle": "normal",
+            "costumes": [
+                {
+                    "rotationCenterX": 33,
+                    "baseLayerMD5": "d730dc43f872120048957454faf3d85c.png",
+                    "rotationCenterY": 100,
+                    "baseLayerID": 8,
+                    "bitmapResolution": 1,
+                    "costumeName": "cassy-dancing-1"
+                },
+                {
+                    "rotationCenterX": 33,
+                    "baseLayerMD5": "0f40e53275db140ca1a747d12310cb54.png",
+                    "rotationCenterY": 100,
+                    "baseLayerID": 9,
+                    "bitmapResolution": 1,
+                    "costumeName": "cassy-dancing-2"
+                },
+                {
+                    "rotationCenterX": 62,
+                    "baseLayerMD5": "ce4f48ff08ac6d36d7f1214812c1aaeb.png",
+                    "rotationCenterY": 100,
+                    "baseLayerID": 10,
+                    "bitmapResolution": 1,
+                    "costumeName": "cassy-dancing-3"
+                },
+                {
+                    "rotationCenterX": 58,
+                    "baseLayerMD5": "2937dfb85c49422564f16c218ecebe0b.png",
+                    "rotationCenterY": 100,
+                    "baseLayerID": 11,
+                    "bitmapResolution": 1,
+                    "costumeName": "cassy-dancing-4"
+                }
+            ],
+            "spriteInfo": {},
+            "indexInLibrary": 2,
+            "isDraggable": false,
+            "direction": 90,
+            "objName": "Casey",
+            "currentCostumeIndex": 3,
+            "scratchY": 49,
+            "scale": 0.65,
+            "scratchX": 98,
+            "scripts": [
+                [
+                    45,
+                    34,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "doForever",
+                            [
+                                [
+                                    "wait:elapsed:from:",
+                                    0.5
+                                ],
+                                [
+                                    "nextCostume"
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    36,
+                    267,
+                    [
+                        [
+                            "whenGreenFlag"
+                        ],
+                        [
+                            "wait:elapsed:from:",
+                            4
+                        ]
+                    ]
+                ],
+                [
+                    89,
+                    418,
+                    [
+                        [
+                            "say:",
+                            "Hey! Join the dance party by remixing this project and adding yourself!"
+                        ]
+                    ]
+                ]
+            ]
+        }
+    ]
+}
