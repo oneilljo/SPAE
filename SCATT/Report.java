@@ -37,7 +37,7 @@ public class Report
     public void makeReport()
     {
      /* File reportFile = new File("/var/www/html/scratch/analyzedReports/Report-" + getReportDateTime() + ".txt"); */
-	File reportFile = new File("/var/www/html/scratch/analyzedReports/Report-" + submissions[0].getName().substring(0, submissions[0].getName().length()-4) + ".txt");
+	File reportFile = new File("/var/www/html/scratch/analyzedReports/" + submissions[0].getName().substring(0, submissions[0].getName().length()-4) + ".txt");
         PrintWriter printW;
         try
         {
