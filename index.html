@@ -11,24 +11,21 @@
 <script>
   function clickAlert()
   {
-    var submitOK = "true";
-    var url = document.getElementById("project").value;
-    var re1 = RegExp('^((http(s)?:\/\/)?scratch\.mit\.edu\/projects\/)?[0-9]+\/?(.+)?$');
+    var projectURL = document.getElementById("project").value;
+    var myRegex = /^(?:(?:http(?:s)??:\/\/)?scratch\.mit\.edu\/projects\/)?([0-9]+)\/?(.+)?$/g;
+    var match = projectURL.match(myRegex);
 
-    if (!re1.test(url)) 
+    if (match == null) 
     {
-	    alert("Please Submit a Scratch Project URL or ID#"); 
-	    submitOK = "false";
+      alert("Please enter a valid Scratch Project URL or ID");
+      return false;
     }
-
-    if (submitOK == "false")
-    {
-        return false;
-    }
+      
+    return true;
   }
 </script>
 <body>  
-  <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="bgimg w3-display-container  w3-text-white">
     <div class="w3-display-topright w3-padding-small w3-medium">
       <a class="w3-text-blue" href="/scratch/">Home</a> | <a href="about/">About</a> | <a href="login/">Login</a> | <a href="signup/">Sign Up</a>
     </div>
@@ -36,7 +33,7 @@
       <img class="w3-animate-top" src="images/scratch.png" alt = "Title">
       <label class="w3-animate-bottom w3-padding-small" for="project">Input URL of SCRATCH Project Here: </label>
       <form method="post" action="/scratch/loading/index.php"> 
-        <input class="w3-animate-bottom w3-small" type="text" name="project">
+        <input class="w3-animate-bottom w3-small" type="text" id="project" name="project">
         <h1 class="w3-tiny"> </h1>
         <input type="submit" onclick="return clickAlert();" class="w3-button w3-animate-bottom w3-round-xxlarge w3-red w3-padding-large" value="Analyze">
       </form>
