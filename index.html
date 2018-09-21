@@ -11,7 +11,7 @@
 <script>
   function clickAlert()
   {
-    var projectURL = document.getElementById("project").value;
+    var projectURL = document.getElementById("projectURL").value;
     var myRegex = /^(?:(?:http(?:s)??:\/\/)?scratch\.mit\.edu\/projects\/)?([0-9]+)\/?(.+)?$/g;
     var match = projectURL.match(myRegex);
 
@@ -31,9 +31,9 @@
     </div>
     <div class="w3-display-middle w3-center">
       <img class="w3-animate-top" src="images/scratch.png" alt = "Title">
-      <label class="w3-animate-bottom w3-padding-small" for="project">Input URL of SCRATCH Project Here: </label>
-      <form method="post" action="/scratch/loading/index.php"> 
-        <input class="w3-animate-bottom w3-small" type="text" id="project" name="project">
+      <label class="w3-animate-bottom w3-padding-small" for="projectURL">Input URL of SCRATCH Project Here: </label>
+      <form method="post" action="/scratch/loading/index.cgi"> 
+        <input class="w3-animate-bottom w3-small" type="text" id="projectURL" name="projectURL">
         <h1 class="w3-tiny"> </h1>
         <input type="submit" onclick="return clickAlert();" class="w3-button w3-animate-bottom w3-round-xxlarge w3-red w3-padding-large" value="Analyze">
       </form>
