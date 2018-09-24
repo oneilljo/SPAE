@@ -25,6 +25,12 @@ my $projectID = $cgi->param("projectID");
 my $file = "../analyzedReports/project-${projectID}.txt";
 
 #
+# PROJECT VARIABLES
+#
+
+my ($scripts, $sprites, $variables, $lists, $scriptComments, $sounds, $costumes, $control, $data, $event, $looks, $moreBlocks, $motion, $operator, $pen, $sensing, $sound) = "";
+
+#
 # END GLOBAL VARIABLES
 #-------------------------------------------------------------
 # MAIN
@@ -38,6 +44,43 @@ exit(0);
 #
 # END MAIN
 
+#-------------------------------------------------------------
+sub parse_project
+# Parse the project summary file for important information,
+# such as # of scripts, variables, sounds, costumes, etc.
+#-------------------------------------------------------------
+{
+  my $count = 0;
+
+  open (PROJECT, "$file");
+  while (my $line = <PROJECT>)
+  {
+    chomp $line;
+    my ($description, $value) = split /\:/, $line;
+    my $found = 0;
+    
+    if ( $description =~ /Scripts Total/ ){ $scripts = $value; $found = 1;}
+    elsif ( $description =~ /Sprites Total/ ){ $sprites = $value; $found = 1;}
+    elsif ( $description =~ /Variables Total/ ){ $variables = $value; $found = 1;}
+    elsif ( $description =~ /Lists Total/ ){ $lists = $value; $found = 1;}
+    elsif ( $description =~ /ScriptComments Total/ ){ $scriptComments = $value; $found = 1;}
+    elsif ( $description =~ /Sounds Total/ ){ $sounds = $value; $found = 1;}
+    elsif ( $description =~ /Costumes Total/ ){ $costumes = $value; $found = 1;}
+    elsif ( $description =~ /Control Blocks/ ){ $control = $value; $found = 1;}
+    elsif ( $description =~ /Data Blocks/ ){ $data = $value; $found = 1;}
+    elsif ( $description =~ /Event Blocks/ ){ $event = $value; $found = 1;}
+    elsif ( $description =~ /Looks Blocks/ ){ $looks = $value; $found = 1;}
+    elsif ( $description =~ /More Blocks Blocks/ ){ $moreBlocks = $value; $found = 1;}
+    elsif ( $description =~ /Motion Blocks/ ){ $motion = $value; $found = 1;}
+    elsif ( $description =~ /Operator Blocks/ ){ $operator = $value; $found = 1;}
+    elsif ( $description =~ /Pen Blocks/ ){ $pen = $value; $found = 1;}
+    elsif ( $description =~ /Sensing Blocks/ ){ $sensing = $value; $found = 1;}
+    elsif ( $description =~ /Sound Blocks/ ){ $sound = $value; $found = 1;}
+
+    if ( $found == 1 && $count < 17){ print "<p>$description: $value</p>"; $count++;};
+  }
+  close (PROJECT);
+}
 #-------------------------------------------------------------
 sub print_header
 # Begin printing printing the webpage. Feed the browser the
@@ -58,15 +101,22 @@ sub print_header
   print "    <link rel=\"stylesheet\" href=\"../css/format.css\">";
   print "    <link rel=\"stylesheet\" href=\"../css/font.css\">";
   print "    <link rel=\"stylesheet\" href=\"../css/style.css\">";
+  print "    <link rel=\"stylesheet\" href=\"../css/report.css\">";
   print "    <link rel=\"shortcut icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
   print "    <link rel=\"icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
   print "  </head>";
 
   # Header to to page and background image.
-  print "  <body>";
-  print "    <div class=\"w3-display-container bgimg w3-text-white\">";
-  print "      <div class=\"w3-display-topleft w3-padding-large\">";
-  print "        <a href=\"/scratch\"><img class=\"w3-animate-left\" src=\"../images/scratch.png\" alt=\"Title\" style=\"width:35%\"></a>";
+  print "  <body class=\"bgimg\">";
+  print "    <div class=\"bgimg\">";
+  print "      <div class=\"header w3-animate-top\">";
+  print "        <a href=\"/scratch\"><img src=\"../images/scratch.png\" alt=\"Title\" style=\"width:35%;height:auto;\"></a>";
+  print "      </div>";
+  print "      <div class=\"topnav w3-animate-left\">";
+  print "        <a href=\"/scratch/\">Home</a>";
+  print "        <a href=\"../analyzedReports/project-${projectID}.txt\" target=\"_blank\">Report</a>";
+  print "        <a href=\"https://scratch.mit.edu/projects/${projectID}\" target=\"_blank\">Project Page</a>";
+  print "        <br/>";
   print "      </div>";
 
 }
@@ -76,14 +126,13 @@ sub print_body
 # Print the page heading. If the user is an admin, state it.
 #-------------------------------------------------------------
 {
-
-  print "      <div class=\"w3-display-centerleft w3-animate-left w3-margin-left w3-small\" style=\"width:35%; position:absolute;\">";
-  print "        <a href=\"/scratch/\">Go Back to Homepage</a>";
-  print "        <br>";
-  print "          <a href=\"../analyzedReports/project-${projectID}.txt\">Link to Raw Project Report</a>";
-  print "          <br>";
-  print "          <a href=\"https://scratch.mit.edu/projects/${projectID}\">Link to SCRATCH Project Page</a>";
-  print "        <br/>";
+  print "      <div class=\"card w3-animate-bottom\">";
+  print "        <h2>ProjectID: ${projectID}</h2>";
+  print "        <h5>Project Name: ???</h5>";
+  print "        <p>Some text..</p>";
+  print "        <p>";
+  parse_project();
+  print "        </p>";
   print "      </div>";
 }
 #-------------------------------------------------------------
@@ -93,7 +142,7 @@ sub print_footer
 # close the html tag.
 #-------------------------------------------------------------
 {
-  print "      <div class=\"w3-display-bottomleft w3-padding-small w3-tiny\">";
+  print "      <div class=\"footer w3-animate-bottom\">";
   print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.";
   print "      </div>";
   print "    </div>";
