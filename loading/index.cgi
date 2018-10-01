@@ -15,6 +15,7 @@ use warnings;
 
 use CGI;
 use Time::Local;
+use HTML::TokeParser::Simple;
 
 #-------------------------------------------------------------
 # GLOBAL VARIABLES
@@ -27,6 +28,54 @@ $projectURL =~ /^(?:(?:http(?:s)??:\/\/)?scratch\.mit\.edu\/projects\/)?([0-9]+)
 
 my $projectID = $1;
 
+$projectURL = "https://scratch.mit.edu/projects/${projectID}/";
+my $parser = HTML::TokeParser::Simple->new(url => ${projectURL});
+my $originalProjectID = "";
+my $remixedProjectID = "";
+
+while (my $anchor = $parser->get_tag('span'))
+{
+  next unless defined(my $attr = $anchor->get_attr('class'));
+  if ( $attr =~ /^attribute$/ )
+  {
+    $anchor = $parser->get_tag('a');
+    my $href = $anchor->get_attr('href');
+    if ( $href =~ /^\/projects\/(\d+)\/$/ )
+    {
+      $originalProjectID = $1;
+
+      while ($anchor = $parser->get_tag('span'))
+      {
+        next unless defined(my $attr = $anchor->get_attr('class'));
+        if ( $attr =~ /^attribute$/ )
+        {
+          $anchor = $parser->get_tag('a');
+          my $href = $anchor->get_attr('href');
+          if ( $href =~ /^\/projects\/(\d+)\/$/ )
+          {
+            $remixedProjectID = $originalProjectID;
+            $originalProjectID = $1;
+
+            last;
+          }
+        }
+      }
+      last;
+    }
+  }
+}
+
+#while (my $anchor = $parser->get_tag('a'))
+#{
+#  next unless defined(my $href = $anchor->get_attr('href'));
+#  if ( $href =~ /^\/projects\/(\d+)\/$/ )
+#  {
+#    $originalProjectID = $1;
+#  }
+#}
+
+#my $originalProjectID = `curl -sS https://scratch.mit.edu/projects/${projectID}/ | grep -o '<a href=\"/projects/[[:digit:]]\{1,\}/\">' | tail -n 1 | grep -o '[[:digit:]]\{1,\}'`;
+
 #
 # END GLOBAL VARIABLES
 #-------------------------------------------------------------
@@ -37,7 +86,17 @@ print_header();
 print_body();
 print_footer();
 
-download();
+download(${projectID});
+
+if ( $originalProjectID ne "" ) 
+{
+  download(${originalProjectID});
+}
+
+if ( $remixedProjectID ne "" )
+{
+  download(${remixedProjectID});
+}
 
 exit(0);
 #
@@ -72,7 +131,7 @@ sub print_header
   print "  <body onload=\"document.download.submit()\">";
   print "    <div class=\"w3-display-container bgimg w3-text-white\">";
   print "      <div class\"w3-display-topright w3-padding-small w3-medium\">";
-  print "        <a href=\"../\">Home</a> | <a href=\"../about/\">About</a> | <a href=\"../login/\">Login</a> | <a href=\"../signup/\">Sign Up</a>";
+#  print "        <a href=\"../\">Home</a> | <a href=\"../about/\">About</a> | <a href=\"../login/\">Login</a> | <a href=\"../signup/\">Sign Up</a>";
   print "      </div>";
 }
 #-------------------------------------------------------------
@@ -113,15 +172,17 @@ sub download
 # loaded page on completion.
 #-------------------------------------------------------------
 {
-  system("./projectdownloader.py ${projectID}");
-  system("chmod 777 project-${projectID}.sb2");
-  system("chown apache:apache project-${projectID}.sb2");
-  system("cp project-${projectID}.sb2 ../savedProjects");
-  system("mv -f project-${projectID}.sb2 ../SCATT/submissions/project-${projectID}.sb2");
+  my $downloadID = shift;
+
+  system("./projectdownloader.py ${downloadID}");
+  system("chmod 777 project-${downloadID}.sb2");
+  system("chown apache:apache project-${downloadID}.sb2");
+  system("cp project-${downloadID}.sb2 ../savedProjects");
+  system("mv -f project-${downloadID}.sb2 ../SCATT/submissions/project-${downloadID}.sb2");
   system("/usr/bin/java -jar ../SCATT/Scatt.jar");
-  system("rm -f ../SCATT/submissions/project-${projectID}.sb2");
-  system("rm -rf zips/${projectID}.zip");
-  system("mv unzips/project-${projectID}/project.json ../savedReports/project-${projectID}");
-  system("rm -rf unzips/${projectID}");
+  system("rm -f ../SCATT/submissions/project-${downloadID}.sb2");
+  system("rm -rf zips/${downloadID}.zip");
+  system("mv unzips/project-${downloadID}/project.json ../savedReports/project-${downloadID}");
+  system("rm -rf unzips/${downloadID}");
 }
 #-------------------------------------------------------------
