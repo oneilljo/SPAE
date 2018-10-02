@@ -4,8 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/format.css">
-<link rel="stylesheet" href="css/font.css">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/report.css">
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <script>
@@ -25,20 +24,20 @@
   }
 </script>
 <body>  
-  <div class="bgimg w3-display-container  w3-text-white">
-    <div class="w3-display-topright w3-padding-small w3-medium">
-      <a class="w3-text-blue" href="/scratch/">Home</a> | <a href="about/">About</a> | <a href="login/">Login</a> | <a href="signup/">Sign Up</a>
+  <div class="bgimg display-container text-white">
+    <div class="display-topright padding-small medium">
+      <a class="text-blue" href="/scratch/">Home</a> | <a href="about/">About</a> | <a href="login/">Login</a> | <a href="signup/">Sign Up</a>
     </div>
-    <div class="w3-display-middle w3-center">
-      <img class="w3-animate-top" src="images/scratch.png" alt = "Title">
-      <label class="w3-animate-bottom w3-padding-small" for="projectURL">Input URL of SCRATCH Project Here: </label>
+    <div class="display-middle center">
+      <img class="animate-top" src="images/scratch.png" alt = "Title">
+      <label class="animate-bottom padding-small" for="projectURL">Input URL of SCRATCH Project Here: </label>
       <form method="post" action="/scratch/loading/index.cgi"> 
-        <input class="w3-animate-bottom w3-small" type="text" id="projectURL" name="projectURL">
-        <h1 class="w3-tiny"> </h1>
-        <input type="submit" onclick="return clickAlert();" class="w3-button w3-animate-bottom w3-round-xxlarge w3-red w3-padding-large" value="Analyze">
+        <input class="animate-bottom small" type="text" id="projectURL" name="projectURL">
+        <h1 class="tiny"> </h1>
+        <input type="submit" onclick="return clickAlert();" class="button animate-bottom round-xxlarge red padding-large" value="Analyze">
       </form>
     </div>
-    <div class="w3-display-bottomleft w3-padding-small w3-tiny">
+    <div class="display-bottomleft padding-small tiny">
     Created & Mantained by Joseph O'Neill. Website Repository can be found <a href="https://github.com/oneilljo/SCRATCH" target="_blank">here</a>.
     </div>
   </div>

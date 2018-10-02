@@ -150,8 +150,6 @@ sub print_header
   print "    <meta charset=\"UTF-8\">";
   print "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">";
   print "    <link rel=\"stylesheet\" href=\"../css/format.css\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/font.css\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/style.css\">";
   print "    <link rel=\"stylesheet\" href=\"../css/report.css\">";
   print "    <link rel=\"shortcut icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
   print "    <link rel=\"icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
@@ -160,10 +158,10 @@ sub print_header
   # Header to to page and background image.
   print "  <body class=\"bgimg\">";
   print "    <div class=\"bgimg\">";
-  print "      <div class=\"header w3-animate-top\">";
+  print "      <div class=\"header animate-top\">";
   print "        <a href=\"/scratch\"><img src=\"../images/scratch.png\" alt=\"Title\" style=\"width:35%;height:auto;\"></a>";
   print "      </div>";
-  print "      <div class=\"topnav w3-animate-left\">";
+  print "      <div class=\"topnav animate-left\">";
   print "        <a href=\"/scratch/\">Home</a>";
   print "        <a href=\"../analyzedReports/project-${projectID}.txt\" target=\"_blank\">Report</a>";
   print "        <a href=\"https://scratch.mit.edu/projects/${projectID}\" target=\"_blank\">Project Page</a>";
@@ -187,7 +185,7 @@ sub print_body
 # Print the page heading. If the user is an admin, state it.
 #-------------------------------------------------------------
 {
-  print "      <div class=\"card w3-animate-bottom\">";
+  print "      <div class=\"card animate-bottom\">";
   print "        <h2>Project Name: ${projectName}</h2>";
   print "        <h5>ProjectID: ${projectID}</h5>";
   print "        <p>Original Project? ${originalProjectYESNO}</p>";
@@ -205,7 +203,7 @@ sub print_body
 
     print "        </p>";
     print "      </div>";
-    print "      <div class=\"card w3-animate-bottom\">";
+    print "      <div class=\"card animate-bottom\">";
     print "        <h2>Remixed Project Name: ${remixedProjectName}</h2>";
     print "        <h5>ProjectID: ${remixedProjectID}</h5>";
     print "        <p>";
@@ -223,7 +221,7 @@ sub print_body
 
     print "        </p>";
     print "      </div>";
-    print "      <div class=\"card w3-animate-bottom\">";
+    print "      <div class=\"card animate-bottom\">";
     print "        <h2>Original Project Name: ${originalProjectName}</h2>";
     print "        <h5>ProjectID: ${originalProjectID}</h5>";
     print "        <p>";
@@ -241,7 +239,7 @@ sub print_footer
 # close the html tag.
 #-------------------------------------------------------------
 {
-  print "      <div class=\"footer w3-animate-bottom\">";
+  print "      <div class=\"footer animate-bottom\">";
   print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.";
   print "      </div>";
   print "    </div>";

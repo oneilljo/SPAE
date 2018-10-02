@@ -120,8 +120,7 @@ sub print_header
   print "    <meta charset=\"UTF-8\">";
   print "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">";
   print "    <link rel=\"stylesheet\" href=\"../css/format.css\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/font.css\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/style.css\">";
+  print "    <link rel=\"stylesheet\" href=\"../css/report.css\">";
   print "    <link rel=\"shortcut icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
   print "    <link rel=\"icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
   print "    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>";
@@ -129,8 +128,8 @@ sub print_header
 
   # Header to to page and background image.
   print "  <body onload=\"document.download.submit()\">";
-  print "    <div class=\"w3-display-container bgimg w3-text-white\">";
-  print "      <div class\"w3-display-topright w3-padding-small w3-medium\">";
+  print "    <div class=\"display-container bgimg text-white\">";
+  print "      <div class\"display-topright padding-small medium\">";
 #  print "        <a href=\"../\">Home</a> | <a href=\"../about/\">About</a> | <a href=\"../login/\">Login</a> | <a href=\"../signup/\">Sign Up</a>";
   print "      </div>";
 }
@@ -140,13 +139,13 @@ sub print_body
 # Print the page heading. If the user is an admin, state it.
 #-------------------------------------------------------------
 {
-  print "    <div class=\"w3-display-middle w3-center\">";
-  print "      <img class= \"w3-animate-top\" src=\"../images/scratch.png\" alt=\"Title\">";
+  print "    <div class=\"display-middle center\">";
+  print "      <img class= \"animate-top\" src=\"../images/scratch.png\" alt=\"Title\">";
   print "      </br>";
-  print "      <label class=\"w3-animate-bottom w3-padding-small\" for=\"download\">Downloading and processing your project...</label>";
+  print "      <label class=\"animate-bottom padding-small\" for=\"download\">Downloading and processing your project...</label>";
   print "      </br>";
   print "      </br>";
-  print "      <img class=\"w3-animate-bottom\" style=\"width:50px;height:50px;\"  src=\"../images/loading.gif\" alt=\"Loading\">";
+  print "      <img class=\"animate-bottom\" style=\"width:50px;height:50px;\"  src=\"../images/loading.gif\" alt=\"Loading\">";
   print "      <form name=\"download\" method=\"post\" action=\"/scratch/progress/index.cgi\">";
   print "        <input type=\"hidden\" name=\"projectID\" id=\"projectID\" value=\"${projectID}\" />";
   print "      </form>";
@@ -159,7 +158,7 @@ sub print_footer
 # close the html tag.
 #-------------------------------------------------------------
 {
-  print "      <div class=\"w3-display-bottomleft w3-padding-small w3-tiny\">";
+  print "      <div class=\"display-bottomleft padding-small tiny\">";
   print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.";
   print "      </div>";
   print "    </div>";
