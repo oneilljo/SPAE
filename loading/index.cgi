@@ -174,13 +174,13 @@ sub download
   my $downloadID = shift;
 
   system("./projectdownloader.py ${downloadID}");
-  system("chmod 777 project-${downloadID}.sb2");
+  system("chmod 755 project-${downloadID}.sb2");
   system("chown apache:apache project-${downloadID}.sb2");
   system("cp project-${downloadID}.sb2 ../savedProjects");
   system("mv -f project-${downloadID}.sb2 ../SCATT/submissions/project-${downloadID}.sb2");
   system("/usr/bin/java -jar ../SCATT/Scatt.jar");
   system("rm -f ../SCATT/submissions/project-${downloadID}.sb2");
-  system("rm -rf zips/${downloadID}.zip");
+  system("rm -f zips/${downloadID}.zip");
   system("mv unzips/project-${downloadID}/project.json ../savedReports/project-${downloadID}");
   system("rm -rf unzips/${downloadID}");
 }
