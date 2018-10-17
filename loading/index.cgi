@@ -27,40 +27,54 @@ my $projectURL = $cgi->param("projectURL");
 $projectURL =~ /^(?:(?:http(?:s)??:\/\/)?scratch\.mit\.edu\/projects\/)?([0-9]+)\/?(.+)?$/;
 
 my $projectID = $1;
+my $parser;
 
 $projectURL = "https://scratch.mit.edu/projects/${projectID}/";
-my $parser = HTML::TokeParser::Simple->new(url => ${projectURL});
+eval
+{
+  $parser = HTML::TokeParser::Simple->new(url => ${projectURL});
+}
+or do
+{
+  $parser = "Failed";
+};
+
+#print STDERR "Hmmmmm...$parser\n";
+
 my $originalProjectID = "";
 my $remixedProjectID = "";
 
-while (my $anchor = $parser->get_tag('span'))
+if ($parser ne "Failed")
 {
-  next unless defined(my $attr = $anchor->get_attr('class'));
-  if ( $attr =~ /^attribute$/ )
+  while (my $anchor = $parser->get_tag('span'))
   {
-    $anchor = $parser->get_tag('a');
-    my $href = $anchor->get_attr('href');
-    if ( $href =~ /^\/projects\/(\d+)\/$/ )
+    next unless defined(my $attr = $anchor->get_attr('class'));
+    if ( $attr =~ /^attribute$/ )
     {
-      $originalProjectID = $1;
-
-      while ($anchor = $parser->get_tag('span'))
+      $anchor = $parser->get_tag('a');
+      my $href = $anchor->get_attr('href');
+      if ( $href =~ /^\/projects\/(\d+)\/$/ )
       {
-        next unless defined(my $attr = $anchor->get_attr('class'));
-        if ( $attr =~ /^attribute$/ )
-        {
-          $anchor = $parser->get_tag('a');
-          my $href = $anchor->get_attr('href');
-          if ( $href =~ /^\/projects\/(\d+)\/$/ )
-          {
-            $remixedProjectID = $originalProjectID;
-            $originalProjectID = $1;
+        $originalProjectID = $1;
 
-            last;
+        while ($anchor = $parser->get_tag('span'))
+        {
+          next unless defined(my $attr = $anchor->get_attr('class'));
+          if ( $attr =~ /^attribute$/ )
+          {
+            $anchor = $parser->get_tag('a');
+            my $href = $anchor->get_attr('href');
+            if ( $href =~ /^\/projects\/(\d+)\/$/ )
+            {
+              $remixedProjectID = $originalProjectID;
+              $originalProjectID = $1;
+
+              last;
+            }
           }
         }
+        last;
       }
-      last;
     }
   }
 }
@@ -83,19 +97,34 @@ while (my $anchor = $parser->get_tag('span'))
 #
 
 print_header();
-print_body();
-print_footer();
 
-download(${projectID});
-
-if ( $originalProjectID ne "" ) 
-{
-  download(${originalProjectID});
+# If the project is publicly shared
+if ($parser ne "Failed") 
+{ 
+  print_success_body();
+}
+# Otherwise, print a failure message
+else 
+{ 
+  print_failed_body(); 
 }
 
-if ( $remixedProjectID ne "" )
+print_footer();
+
+# Don't try to download the project if it isn't publicly shared
+if ($parser ne "Failed")
 {
-  download(${remixedProjectID});
+  download(${projectID});
+
+  if ( $originalProjectID ne "" ) 
+  {
+    download(${originalProjectID});
+  }
+
+  if ( $remixedProjectID ne "" )
+  {
+    download(${remixedProjectID});
+  }
 }
 
 exit(0);
@@ -134,7 +163,7 @@ sub print_header
   print "      </div>";
 }
 #-------------------------------------------------------------
-sub print_body
+sub print_success_body
 # Print the first visible part of the page. Open the body tag.
 # Print the page heading. If the user is an admin, state it.
 #-------------------------------------------------------------
@@ -149,6 +178,20 @@ sub print_body
   print "      <form name=\"download\" method=\"post\" action=\"/scratch/progress/index.cgi\">";
   print "        <input type=\"hidden\" name=\"projectID\" id=\"projectID\" value=\"${projectID}\" />";
   print "      </form>";
+  print "    </div>";
+}
+#-------------------------------------------------------------
+sub print_failed_body
+# Print the first visible part of the page. Open the body tag.
+# Print the page heading. If the user is an admin, state it.
+#-------------------------------------------------------------
+{
+  print "    <div class=\"display-middle center\">";
+  print "      <img class= \"animate-top\" src=\"../images/scratch.png\" alt=\"Title\">";
+  print "      <img class= \"animate-left\" src=\"../images/sad_cat.png\" alt=\"Sad Cat\" style=\"height:200; width:200;\">";
+  print "      <h3 class= \"animate-right\">Uh oh! This project either isn't publicly shared or doesn't exist!</h3>";
+  print "      <h4 class= \"animate-bottom\">If this is your project, click <a href=\"${projectURL}\" target=\"_blank\">here</a> and share the project.</h4>";
+  print "      <h5 class= \"animate-bottom\">Once the project has been shared, <a href=\"../index.html\">go back</a> and try again.</h5>";
   print "    </div>";
 }
 #-------------------------------------------------------------
