@@ -127,7 +127,11 @@ sub parse_project
       elsif ( $description =~ /Sensing Blocks/ ){ $sensing = $value; $found = 1;}
       elsif ( $description =~ /Sound Blocks/ ){ $sound = $value; $found = 1;}
 
-      if ( $found == 1 && $count < 17){ print "<p>$description: $value</p>"; $count++;};
+      if ( $found == 1 && $count < 17)
+      { 
+        print "          <p>$description: $value</p>\n"; 
+        $count++;
+      }
     }
   }
   close (PROJECT);
@@ -144,39 +148,39 @@ sub print_header
 
   print CGI::header();
 
-  print "<html>";
-  print "  <head>";
-  print "    <title>A SCRATCH Thesis Project</title>";
-  print "    <meta charset=\"UTF-8\">";
-  print "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/format.css\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/report.css\">";
-  print "    <link rel=\"shortcut icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
-  print "    <link rel=\"icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
-  print "  </head>";
+  print "<html>\n";
+  print "  <head>\n";
+  print "    <title>A SCRATCH Thesis Project</title>\n";
+  print "    <meta charset=\"UTF-8\">\n";
+  print "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n";
+  print "    <link rel=\"stylesheet\" href=\"../css/format.css\">\n";
+  print "    <link rel=\"stylesheet\" href=\"../css/report.css\">\n";
+  print "    <link rel=\"shortcut icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">\n";
+  print "    <link rel=\"icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">\n";
+  print "  </head>\n";
 
   # Header to to page and background image.
-  print "  <body class=\"bgimg\">";
-  print "    <div class=\"bgimg\">";
-  print "      <div class=\"header animate-top\">";
-  print "        <a href=\"/scratch\"><img src=\"../images/scratch.png\" alt=\"Title\" style=\"width:35%;height:auto;\"></a>";
-  print "      </div>";
-  print "      <div class=\"topnav animate-left\">";
-  print "        <a href=\"/scratch/\">Home</a>";
-  print "        <a href=\"../analyzedReports/project-${projectID}.txt\" target=\"_blank\">Report</a>";
-  print "        <a href=\"https://scratch.mit.edu/projects/${projectID}\" target=\"_blank\">Project Page</a>";
+  print "  <body class=\"bgimg\">\n";
+  print "    <div class=\"bgimg\">\n";
+  print "      <div class=\"header animate-top\">\n";
+  print "        <a href=\"/scratch\"><img src=\"../images/scratch.png\" alt=\"Title\" style=\"width:35%;height:auto;\"></a>\n";
+  print "      </div>\n";
+  print "      <div class=\"topnav animate-left\">\n";
+  print "        <a href=\"/scratch/\">Home</a>\n";
+  print "        <a href=\"../analyzedReports/project-${projectID}.txt\" target=\"_blank\">Report</a>\n";
+  print "        <a href=\"https://scratch.mit.edu/projects/${projectID}\" target=\"_blank\">Project Page</a>\n";
   
   if ( $remixedProjectID ne "" )
   {
-    print "        <a href=\"https://scratch.mit.edu/projects/${remixedProjectID}\" target=\"_blank\">Remixed Project Page</a>";
+    print "        <a href=\"https://scratch.mit.edu/projects/${remixedProjectID}\" target=\"_blank\">Remixed Project Page</a>\n";
   }
 
   if ( $originalProjectID ne "" )
   {
-    print "        <a href=\"https://scratch.mit.edu/projects/${originalProjectID}\" target=\"_blank\">Original Project Page</a>";  
+    print "        <a href=\"https://scratch.mit.edu/projects/${originalProjectID}\" target=\"_blank\">Original Project Page</a>\n";  
   }
   
-  print "      </div>";
+  print "      </div>\n";
 
 }
 #-------------------------------------------------------------
@@ -185,11 +189,11 @@ sub print_body
 # Print the page heading. If the user is an admin, state it.
 #-------------------------------------------------------------
 {
-  print "      <div class=\"card animate-bottom\">";
-  print "        <h2>Project Name: ${projectName}</h2>";
-  print "        <h5>ProjectID: ${projectID}</h5>";
-  print "        <p>Original Project? ${originalProjectYESNO}</p>";
-  print "        <p>";
+  print "      <div class=\"card animate-bottom\">\n";
+  print "        <h2>Project Name: ${projectName}</h2>\n";
+  print "        <h5>ProjectID: ${projectID}</h5>\n";
+  print "        <p>Original Project? ${originalProjectYESNO}</p>\n";
+  print "        <div>\n";
 
   parse_project(${projectIDFile});
 
@@ -201,12 +205,12 @@ sub print_body
 
     my $remixedProjectName = $parser->get_trimmed_text; 
 
-    print "        </p>";
-    print "      </div>";
-    print "      <div class=\"card animate-bottom\">";
-    print "        <h2>Remixed Project Name: ${remixedProjectName}</h2>";
-    print "        <h5>ProjectID: ${remixedProjectID}</h5>";
-    print "        <p>";
+    print "        </div>\n";
+    print "      </div>\n";
+    print "      <div class=\"card animate-bottom\">\n";
+    print "        <h2>Remixed Project Name: ${remixedProjectName}</h2>\n";
+    print "        <h5>ProjectID: ${remixedProjectID}</h5>\n";
+    print "        <div>\n";
 
     parse_project("../analyzedReports/project-${remixedProjectID}.txt");
   }
@@ -219,18 +223,18 @@ sub print_body
 
     my $originalProjectName = $parser->get_trimmed_text;
 
-    print "        </p>";
-    print "      </div>";
-    print "      <div class=\"card animate-bottom\">";
-    print "        <h2>Original Project Name: ${originalProjectName}</h2>";
-    print "        <h5>ProjectID: ${originalProjectID}</h5>";
-    print "        <p>";
+    print "        </div>\n";
+    print "      </div>\n";
+    print "      <div class=\"card animate-bottom\">\n";
+    print "        <h2>Original Project Name: ${originalProjectName}</h2>\n";
+    print "        <h5>ProjectID: ${originalProjectID}</h5>\n";
+    print "        <div>\n";
 
     parse_project("../analyzedReports/project-${originalProjectID}.txt");
   }
 
-  print "        </p>";
-  print "      </div>";
+  print "        </div>\n";
+  print "      </div>\n";
 }
 #-------------------------------------------------------------
 sub print_footer
@@ -239,11 +243,11 @@ sub print_footer
 # close the html tag.
 #-------------------------------------------------------------
 {
-  print "      <div class=\"footer animate-bottom\">";
-  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.";
-  print "      </div>";
-  print "    </div>";
-  print "  </body>";
-  print "</html>";
+  print "      <div class=\"footer animate-bottom\">\n";
+  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.\n";
+  print "      </div>\n";
+  print "    </div>\n";
+  print "  </body>\n";
+  print "</html>\n";
 }
 #-------------------------------------------------------------

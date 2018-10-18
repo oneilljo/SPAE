@@ -143,24 +143,17 @@ sub print_header
 
   print CGI::header();
 
-  print "<html>";
-  print "  <head>";
-  print "    <title>SCRATCH Thesis Project</title>";
-  print "    <meta charset=\"UTF-8\">";
-  print "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/format.css\">";
-  print "    <link rel=\"stylesheet\" href=\"../css/report.css\">";
-  print "    <link rel=\"shortcut icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
-  print "    <link rel=\"icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">";
-  print "    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>";
-  print "  </head>";
-
-  # Header to to page and background image.
-  print "  <body onload=\"document.download.submit()\">";
-  print "    <div class=\"display-container bgimg text-white\">";
-  print "      <div class\"display-topright padding-small medium\">";
-#  print "        <a href=\"../\">Home</a> | <a href=\"../about/\">About</a> | <a href=\"../login/\">Login</a> | <a href=\"../signup/\">Sign Up</a>";
-  print "      </div>";
+  print "<html>\n";
+  print "  <head>\n";
+  print "    <title>SCRATCH Thesis Project</title>\n";
+  print "    <meta charset=\"UTF-8\">\n";
+  print "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n";
+  print "    <link rel=\"stylesheet\" href=\"../css/format.css\">\n";
+  print "    <link rel=\"stylesheet\" href=\"../css/report.css\">\n";
+  print "    <link rel=\"shortcut icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">\n";
+  print "    <link rel=\"icon\" href=\"../images/favicon.ico\" type=\"image/x-icon\">\n";
+  print "    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>\n";
+  print "  </head>\n";
 }
 #-------------------------------------------------------------
 sub print_success_body
@@ -168,17 +161,20 @@ sub print_success_body
 # Print the page heading. If the user is an admin, state it.
 #-------------------------------------------------------------
 {
-  print "    <div class=\"display-middle center\">";
-  print "      <img class= \"animate-top\" src=\"../images/scratch.png\" alt=\"Title\">";
-  print "      </br>";
-  print "      <label class=\"animate-bottom padding-small\" for=\"download\">Downloading and processing your project...</label>";
-  print "      </br>";
-  print "      </br>";
-  print "      <img class=\"animate-bottom\" style=\"width:50px;height:50px;\"  src=\"../images/loading.gif\" alt=\"Loading\">";
-  print "      <form name=\"download\" method=\"post\" action=\"/scratch/progress/index.cgi\">";
-  print "        <input type=\"hidden\" name=\"projectID\" id=\"projectID\" value=\"${projectID}\" />";
-  print "      </form>";
-  print "    </div>";
+  # Header to to page and background image.
+  print "  <body onload=\"document.download.submit()\">\n";
+  print "    <div class=\"display-container bgimg text-white\">\n";
+  print "      <div class=\"display-middle center\">\n";
+  print "        <img class= \"animate-top\" src=\"../images/scratch.png\" alt=\"Title\">\n";
+  print "        </br>\n";
+  print "        <label class=\"animate-bottom padding-small\" for=\"download\">Downloading and processing your project...</label>\n";
+  print "        </br>\n";
+  print "        </br>\n";
+  print "        <img class=\"animate-bottom\" style=\"width:50px;height:50px;\"  src=\"../images/loading.gif\" alt=\"Loading\">\n";
+  print "        <form name=\"download\" method=\"post\" action=\"/scratch/progress/index.cgi\">\n";
+  print "          <input type=\"hidden\" name=\"projectID\" id=\"projectID\" value=\"${projectID}\" />\n";
+  print "        </form>\n";
+  print "      </div>\n";
 }
 #-------------------------------------------------------------
 sub print_failed_body
@@ -186,13 +182,20 @@ sub print_failed_body
 # Print the page heading. If the user is an admin, state it.
 #-------------------------------------------------------------
 {
-  print "    <div class=\"display-middle center\">";
-  print "      <img class= \"animate-top\" src=\"../images/scratch.png\" alt=\"Title\">";
-  print "      <img class= \"animate-left\" src=\"../images/sad_cat.png\" alt=\"Sad Cat\" style=\"height:200; width:200;\">";
-  print "      <h3 class= \"animate-right\">Uh oh! This project either isn't publicly shared or doesn't exist!</h3>";
-  print "      <h4 class= \"animate-bottom\">If this is your project, click <a href=\"${projectURL}\" target=\"_blank\">here</a> and share the project.</h4>";
-  print "      <h5 class= \"animate-bottom\">Once the project has been shared, <a href=\"../index.html\">go back</a> and try again.</h5>";
-  print "    </div>";
+  # Header to to page and background image.
+  print "  <body>\n";
+  print "    <div class=\"display-container bgimg text-white\">\n";
+  print "      <div class=\"display-middle center\">\n";
+  print "        <img class= \"animate-top\" src=\"../images/scratch.png\" alt=\"Title\">\n";
+  print "        <img class= \"animate-left\" src=\"../images/sad_cat.png\" alt=\"Sad Cat\" style=\"height:200; width:200;\">\n";
+  print "        <h3 class= \"animate-right\">Uh oh! This project either isn't publicly shared or doesn't exist!</h3>\n";
+  print "        <h4 class= \"animate-bottom\">If this is your project, click <a href=\"${projectURL}\" target=\"_blank\">here</a> and share the project.</h4>\n";
+  print "        <h5 class= \"animate-bottom\">Once the project has been shared, click below to try again.</h5>\n";
+  print "        <form method=\"post\" action=\"/scratch/loading/index.cgi\">\n";
+  print "          <input type=\"hidden\" id=\"projectURL\" name=\"projectURL\" value=\"${projectID}\">\n";
+  print "          <input type=\"submit\" class=\"button animate-bottom round-xxlarge red padding-large\" value=\"Analyze\">\n";
+  print "        </form>\n";
+  print "      </div>\n";
 }
 #-------------------------------------------------------------
 sub print_footer
@@ -201,12 +204,12 @@ sub print_footer
 # close the html tag.
 #-------------------------------------------------------------
 {
-  print "      <div class=\"display-bottomleft padding-small tiny\">";
-  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.";
-  print "      </div>";
-  print "    </div>";
-  print "  </body>";
-  print "</html>";
+  print "      <div class=\"display-bottomleft padding-small tiny\">\n";
+  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.\n";
+  print "      </div>\n";
+  print "    </div>\n";
+  print "  </body>\n";
+  print "</html>\n";
 }
 #-------------------------------------------------------------
 sub download
