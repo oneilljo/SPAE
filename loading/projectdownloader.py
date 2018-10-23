@@ -261,5 +261,4 @@ def decodeStatus(sc):
     return int(sc - 75) + abs((-425.0 - 75) * 2)
 
 if __name__ == "__main__":
-    #print(downloadProject(str(input('Enter project id: ')), 'project_' + str(random.randint(0, 10000000)) + '.sb2'))
     print(downloadProject(str(sys.argv[1]), 'project-' + str(sys.argv[1]) + '.sb2'))

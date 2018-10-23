@@ -15,19 +15,19 @@ do
     echo "$num: $projectID" >> stats/run.txt
     ./projectdownloader.py "$projectID" &> stats/waste.txt
 
-    #sleep 5
+    #sleep 2
 
-    fileName="project_"$projectID".sb2"
+    fileName="project-${projectID}.sb2"
     #echo "$fileName"
 
     chmod 755 $fileName 2>> stats/out.log
     #cp $fileName ../savedProjects 2>> stats/out.log
     mv -f $fileName ../SCATT/submissions/$fileName 2>> stats/out.log
-    /usr/bin/java -jar ../SCATT/Scatt.jar #&> stats/waste.txt
+    /usr/bin/java -jar ../SCATT/Scatt.jar &> stats/waste.txt
 
     rm -rf ../SCATT/submissions/$fileName 2>> stats/out.log
-    rm -f zips/project_$projectID*
-    rm -rf unzips/project_$projectID
+    rm -f zips/project-$projectID*
+    rm -rf unzips/project-$projectID
     rm -f ../savedProjects/$filename*
 
 done
