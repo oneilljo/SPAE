@@ -1,7 +1,11 @@
 #!/bin/bash
 
+sar -u 5 17280 > stats/CPU-Usage.txt &
+sar -r 5 17280 > stats/Memory-Usage.txt &
+
 num=0
 echo "$$" >> stats/pid.txt
+echo "Start Time: $(date -u)" >> stats/timing.txt
 
 cat $1 | while read -r line
 do
@@ -12,7 +16,7 @@ do
 
     projectID="$line"
     ((num++))
-    echo "$num: $projectID" >> stats/run.txt
+    echo "$num: $projectID -> $(date -u)" >> stats/run.txt
     ./projectdownloader.py "$projectID" &> stats/waste.txt
 
     #sleep 2
@@ -32,4 +36,5 @@ do
 
 done
 
+echo "Finish Time: $(date -u)" >> stats/timing.txt
 echo "Complete!" >> stats/run.txt
