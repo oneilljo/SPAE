@@ -23,10 +23,12 @@ import base64
 import random
 
 def write(cnt):
-    sys.stdout.write(str(cnt).encode('cp850', errors='ignore').decode())
+    sys.stdout.write(str(cnt).encode('utf-8', errors='ignore').decode())
+    #sys.stdout.write(str(cnt).encode('cp850', errors='ignore').decode())
     sys.stdout.flush()
 def pri(cnt):
-    print(str(cnt).encode('cp850', errors='ignore').decode())
+    print(str(cnt).encode('utf-8', errors='ignore').decode())
+    #print(str(cnt).encode('cp850', errors='ignore').decode())
     sys.stdout.flush()
 
 def downloadProject(pk, path):
