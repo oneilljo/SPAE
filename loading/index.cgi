@@ -1,5 +1,4 @@
 #!/usr/bin/env perl
-
  
 #-------------------------------------------------------------
 # Program Name:	progress.cgi
@@ -39,7 +38,9 @@ or do
   $parser = "Failed";
 };
 
-#print STDERR "Hmmmmm...$parser\n";
+print STDERR "Hmmmmm...$parser\n";
+print STDERR "Hmmmmm...$projectURL\n";
+print STDERR "Hmmmmm...$projectID\n";
 
 my $originalProjectID = "";
 my $remixedProjectID = "";
