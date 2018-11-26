@@ -38,9 +38,7 @@ or do
   $parser = "Failed";
 };
 
-print STDERR "Hmmmmm...$parser\n";
-print STDERR "Hmmmmm...$projectURL\n";
-print STDERR "Hmmmmm...$projectID\n";
+print STDERR "ProjectID: $projectID\n";
 
 my $originalProjectID = "";
 my $remixedProjectID = "";
@@ -220,11 +218,12 @@ sub download
 {
   my $downloadID = shift;
 
-  system("./projectdownloader.py ${downloadID}");
+  system("./projectdownloader.py ${downloadID} > /dev/null");
   system("chmod 755 project-${downloadID}.sb2");
   system("chown apache:apache project-${downloadID}.sb2");
   system("cp project-${downloadID}.sb2 ../savedProjects");
   system("mv -f project-${downloadID}.sb2 ../SCATT/submissions/project-${downloadID}.sb2");
+  system("sleep 1");
   system("/usr/bin/java -jar ../SCATT/Scatt.jar");
   system("rm -f ../SCATT/submissions/project-${downloadID}.sb2");
   system("rm -f zips/${downloadID}.zip");

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-sar -u 5 17280 > stats/CPU-Usage.txt &
-sar -r 5 17280 > stats/Memory-Usage.txt &
+#sar -u 5 2160 > stats/CPU-Usage.txt &
+#sar -r 5 2160 > stats/Memory-Usage.txt &
 
 num=0
 echo "$$" >> stats/pid.txt
