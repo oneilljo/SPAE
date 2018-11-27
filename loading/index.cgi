@@ -204,7 +204,7 @@ sub print_footer
 #-------------------------------------------------------------
 {
   print "      <div class=\"display-bottomleft padding-small tiny\">\n";
-  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.\n";
+  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SPAE\" target=\"_blank\">here</a>.\n";
   print "      </div>\n";
   print "    </div>\n";
   print "  </body>\n";
@@ -224,7 +224,7 @@ sub download
   system("cp project-${downloadID}.sb2 ../savedProjects");
   system("mv -f project-${downloadID}.sb2 ../SCATT/submissions/project-${downloadID}.sb2");
   system("sleep 1");
-  system("/usr/bin/java -jar ../SCATT/Scatt.jar");
+  system("/usr/bin/java -jar ../SCATT/Scatt.jar > /dev/null");
   system("rm -f ../SCATT/submissions/project-${downloadID}.sb2");
   system("rm -f zips/${downloadID}.zip");
   system("mv unzips/project-${downloadID}/project.json ../savedReports/project-${downloadID}");

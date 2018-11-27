@@ -244,7 +244,7 @@ sub print_footer
 #-------------------------------------------------------------
 {
   print "      <div class=\"footer animate-bottom\">\n";
-  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SCRATCH\" target=\"_blank\">here</a>.\n";
+  print "      Created & Mantained by Joseph O'Neill. Website Repository can be found <a href=\"https://github.com/oneilljo/SPAE\" target=\"_blank\">here</a>.\n";
   print "      </div>\n";
   print "    </div>\n";
   print "  </body>\n";
